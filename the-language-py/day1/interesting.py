@@ -29,3 +29,57 @@
 # <built-in function len>
 # >>> #hace referencia a la funcion
 # >>>
+
+# >>> a = 'hey'
+# >>> a = "isn't"
+# >>> len(a)
+# 5
+# >>> a + 'wow'
+# "isn'twow"
+# >>> a
+# "isn't"
+# >>> #strings son inmutables, siempre crea nuevos strings
+# >>> a.lower()
+# "isn't"
+# >>> a.upper()
+# "ISN'T"
+# >>> a
+# "isn't"
+# >>> #ejecuta este metodo upper en el objeto a
+# >>> a.find('e')
+# -1
+# >>> a.find('i')
+# 0
+# >>> a[0]
+# 'i'
+# >>> a[-1]
+# 't'
+# >>> a[10]
+# Traceback (most recent call last):
+#   File "<stdin>", line 1, in <module>
+# IndexError: string index out of range
+# >>> 'Hi %s I have %d ballons' % ('chris', 42)
+# 'Hi chris I have 42 ballons'
+# >>> #revisar como python maneja unicode
+# >>> #los strings son una secuencia de bytes
+# >>> a[1:2]
+# 's'
+# >>> a[1:4]
+# "sn'"
+# >>> a[1:5:2]
+# "s'"
+# >>> a[1:]
+# "sn't"
+# >>> a[:]
+# "isn't"
+# >>> #python tiene otra numeracion para indexar con numeros negativos pensando en representar len - num
+# >>> a[-4:-2]
+# 'sn'
+# >>> a[:-3]
+# 'is'
+# >>> a[-3:]
+# "n't"
+
+"""
+    python utiliza indentacion, tener cuidado con espacios y tabs. preferir espacios.
+"""
