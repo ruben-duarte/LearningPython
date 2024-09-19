@@ -261,3 +261,45 @@
 # >>> y
 # 2
 # >>>
+
+# >>> #dict delimiter {}
+# >>> d = {}
+# >>> d['a'] = 'alpha'
+# >>> d['o'] = 'omega'
+# >>> d['g'] = 'gama'
+# >>> # key retrive en tiempo constante o(n)
+# >>> d['a']
+# 'alpha'
+# >>> d['x']
+# Traceback (most recent call last):
+#   File "<stdin>", line 1, in <module>
+# KeyError: 'x'
+# >>> d.get('x')
+# >>> d.get('a')
+# 'alpha'
+# >>> 'a' in d
+# True
+# >>> d
+# {'a': 'alpha', 'o': 'omega', 'g': 'gama'}
+# >>> 'alpha' in d
+# False
+# >>> d.keys()
+# dict_keys(['a', 'o', 'g'])
+# >>> # hashing en lista por loque estan en desorden
+
+# >>> d.values()
+# dict_values(['alpha', 'omega', 'gama'])
+# >>> #loopin dict
+# >>> for k in sorted(d.keys()): print('key:',k,'->',d[k])
+# ...
+# key: a -> alpha
+# key: g -> gama
+# key: o -> omega
+# >>> d.items()
+# dict_items([('a', 'alpha'), ('o', 'omega'), ('g', 'gama')])
+# >>> for tuple in d.items(): print(tuple)
+# ...
+# ('a', 'alpha')
+# ('o', 'omega')
+# ('g', 'gama')
+# >>>
