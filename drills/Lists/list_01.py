@@ -25,7 +25,7 @@ def sum_numbers2(list_item):
       count_down -= 1
       subtotal = first + last
       sum += subtotal
-    sum += list_item[len(list_item)//2 + 1]
+    sum += list_item[len(list_item)//2]
   return sum
 
 print(sum_numbers2(numbers_1))
