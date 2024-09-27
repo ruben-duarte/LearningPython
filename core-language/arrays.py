@@ -43,3 +43,26 @@ for index in range(len(stock_names)):
     data["price"] = stock_prices[index]
     stock_data.append(data)
 print(stock_data)
+
+#create array
+A = [1,2,4]
+
+#append *O(1)
+A.append(5)
+
+#pop O(1)
+A.pop()
+
+#insert not a the end O(n)
+A.insert(2,7)
+
+# modify an element O(1)
+A[3] = 10
+
+#accessing element O(1)
+A[3]
+
+if 10 in A: #O(n)
+    print(True)
+
+    

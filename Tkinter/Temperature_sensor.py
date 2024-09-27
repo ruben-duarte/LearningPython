@@ -5,11 +5,20 @@ def convert():
     temp_input_celsius = entry_int.get()
     temp_output_farenheit = (temp_input_celsius*9/5) + 32
     output_string.set(temp_output_farenheit)
-
-# create window
+2
+# create windows
 window = tk.Tk()
 window.title("Temperature sensor -> Reading & Conversion")
 window.geometry('500x400')
+
+# Cambiar el color de fondo de la ventana
+window.configure(bg='#0A1F44')  # Fondo azul oscuro
+
+# Crear estilo para ttk
+style = ttk.Style()
+style.configure('TLabel', background='#0A1F44', foreground='#FFFFFF')  # Fondo oscuro, texto blanco
+style.configure('TFrame', background='#0A1F44')  # Fondo oscuro para los frames
+style.configure('TButton', background='#106B6B', foreground='#000000')  # Botón con fondo rojo claro y texto blanco
 
 # title
 title_label = ttk.Label(

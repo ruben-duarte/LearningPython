@@ -1,20 +1,25 @@
 import pygame
 from pygame.locals import *
 import time
+import random
 
 SIZE = 20
 
 class Apple():
     def __init__(self, parent_screen):
        self.image = pygame.image.load('apple.jpg').convert()
-       self.image = pygame.transform.scale(self.image, (18,18))
+       self.image = pygame.transform.scale(self.image, (20,20))
        self.parent_screen = parent_screen
        self.x = SIZE*3
        self.y = SIZE*3
     
     def draw(self):     
         self.parent_screen.blit(self.image, (self.x, self.y))
-        pygame.display.flip() #update changes in window       
+        pygame.display.flip() #update changes in window   
+
+    def move(self):
+        self.x = random.randint(0,1000//20)*SIZE
+        self.y = random.randint(0,500//20)*SIZE
 
 class Snake():
     def __init__(self, parent_screen, length):
@@ -25,6 +30,11 @@ class Snake():
         self.block_x = [SIZE]*length
         self.block_y = [SIZE]*length
         self.direction = 'down'
+
+    def increase_length(self):
+        self.length += 1
+        self.block_x.append(-1)
+        self.block_y.append(-1)
         
     def draw(self):
         self.parent_screen.fill((44,44,84))
@@ -72,14 +82,28 @@ class Game():
         pygame.init()
         self.surface = pygame.display.set_mode((1000,500)) #window size
         self.surface.fill((44,44,84)) #window color
-        self.snake = Snake(self.surface, 7)
+        self.snake = Snake(self.surface, 1)
         self.snake.draw()
         self.apple = Apple(self.surface)
         self.apple.draw()
 
+    def check_collision(self, x1, y1, x2, y2):
+        if x1 >= x2 and x1 <= x2 + SIZE:
+            if y1 >= y2 and y1 <= y2 + SIZE:
+                return True
+        return False
+
     def play(self):
         self.snake.walk()
         self.apple.draw()
+
+        if self.check_collision(
+            self.snake.block_x[0],
+            self.snake.block_y[0],
+            self.apple.x,
+            self.apple.y):
+              self.snake.increase_length()
+              self.apple.move()
 
     def run(self):
         running = True
