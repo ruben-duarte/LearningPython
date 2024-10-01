@@ -46,7 +46,7 @@ ax.plot(smoothed_on_voltage, marker='', linestyle='-', color='#FFD700', linewidt
         label='On Voltage Smoothed')
 
 # Invertir el eje y
-#plt.gca().invert_yaxis()
+plt.gca().invert_yaxis()
 
 # Resaltar los puntos con error significativo (diferencia entre original y suavizado)
 anomalous_points = error > error_rate_threshold
