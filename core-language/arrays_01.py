@@ -23,4 +23,5 @@ for index in range(len(data)):
 for index in range(len(data_list)):
       data_list[index][1] = int(data_list[index][1])
 
-print(data_list)
+delta_febr = data_list[1][1] - data_list[0][1]
+print(delta_febr)
