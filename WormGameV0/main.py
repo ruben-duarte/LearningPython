@@ -4,6 +4,7 @@ import time
 import random
 
 SIZE = 20
+BACKGROUND_COLOR = (44,44,84)
 
 class Apple():
     def __init__(self, parent_screen):
@@ -37,7 +38,7 @@ class Snake():
         self.block_y.append(-1)
         
     def draw(self):
-        self.parent_screen.fill((44,44,84))
+        self.parent_screen.fill(BACKGROUND_COLOR)
         for square in range(self.length):
           self.parent_screen.blit(self.block, (self.block_x[square], self.block_y[square]))
         
@@ -99,6 +100,12 @@ class Game():
         self.display_score()
         pygame.display.flip()
 
+        #snake colliding with apple
+        for index in range(3,self.snake.length):
+            if self.check_collision(self.snake.block_x[0],self.snake.block_y[0],self.snake.block_x[index],self.snake.block_y[index]):
+                raise "Game over"
+
+
         if self.check_collision(
             self.snake.block_x[0],
             self.snake.block_y[0],
@@ -111,6 +118,15 @@ class Game():
         font = pygame.font.SysFont('cambria', 30)
         score = font.render(f"Score: {self.snake.length}", True, (100,200,200))
         self.surface.blit(score,(700,10))
+
+    def show_game_over(self):
+        self.surface.fill(BACKGROUND_COLOR)
+        font = pygame.font.SysFont('cambria', 30)
+        line_1 = font.render(f"Score: {self.snake.length}", True, (100,200,200))
+        self.surface.blit(line_1, (200,300))
+        line_2 = font.render("To play again press enter, to quit press escape", True, (100,200,200))
+        self.surface.blit(line_2, (200,350))
+        pygame.display.flip() #its like refreshing
 
     def run(self):
         running = True
@@ -133,7 +149,11 @@ class Game():
                 elif event.type == QUIT:
                     running = False
 
-            self.play()
+            try:
+                self.play()
+            except Exception as e:
+                self.show_game_over()
+
             time.sleep(0.3)
 
 
