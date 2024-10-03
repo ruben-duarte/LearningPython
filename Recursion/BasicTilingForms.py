@@ -1,4 +1,5 @@
 from turtle import *
+import turtle
 import random
 
 setup(800, 800)
@@ -27,11 +28,12 @@ def tiling(x, y, size, level):
         tiling(x + size, y + size, size, level)
         tiling(x - size, y - size, size, level)
         tiling(x + size, y - size, size, level)
-Screen().bgcolor("#AFCBFF") 
-donatello = Turtle("turtle")
-donatello.color("#AFCBFF")
-donatello.pencolor("white")
-hideturtle()
-tiling(0,0,300,4)
-tracer(True)
-exitonclick()
+Screen().bgcolor("white") 
+donatello = turtle.Turtle(shape="turtle")
+donatello.pensize(10)
+donatello.color("#BEC5AD")
+#hideturtle()
+tiling(0,0,300,3)
+#tracer(True)
+#exitonclick()
+turtle.done()
