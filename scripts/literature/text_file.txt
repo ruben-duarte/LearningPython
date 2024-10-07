@@ -1,0 +1,2868 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<!-- .51 -->
+<head profile="http://a9.com/-/spec/opensearch/1.1/">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>María | Biblioteca Virtual Miguel de Cervantes</title>	
+                
+        
+                         
+        <meta name="keywords" content="cervantes virtual, biblioteca cervantes, biblioteca virtual cervantes, biblioteca, biblioteca digital, virtual, Cervantes, literatura, lenguas hispanas, obras clásicas, educación, investigación, ediciones, tesis, español, catalán, ciencia, historia" />
+        <meta name="author" content="Biblioteca Virtual Miguel de Cervantes" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Buscador en catálogo de www.cervantesvirtual.com" />
+
+                
+        
+                
+    
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@FBVMC"/>
+                           
+     <meta property="og:title" content="María"/>
+    
+	<meta property="og:description" content="" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.cervantesvirtual.com/obra-visor/maria--1/html/feddb01c-82b1-11df-acc7-002185ce6064_2.html"/>
+ 	    
+    <meta property="og:site_name" content="Biblioteca Virtual Miguel de Cervantes"/>
+
+     <script type='application/ld+json'>
+      {
+        "@context": "https://www.schema.org",
+        "@type": "Book",
+        "name": "María ",
+        "url": "https://www.cervantesvirtual.com/obra-visor/maria--1/html/feddb01c-82b1-11df-acc7-002185ce6064_2.html",
+		"description": "",									  
+                "author": [
+                      ],
+		  "publisher":
+          {
+           "@type":"Organization",
+           "url": "https://www.cervantesvirtual.com",
+           "name":"Biblioteca Virtual Miguel de Cervantes",           
+            "description": "La Biblioteca Virtual Miguel de Cervantes, la primera en lengua castellana, es un fondo bibliográfico con obras de Literatura, Historia, Ciencias, etc., de libre acceso. Incluye trabajos de investigación, catálogo en otras lenguas y bibliotecas del mundo",
+			"logo": {
+				"@type": "ImageObject",
+				"url":"https://www.cervantesvirtual.com/includes/css/cervantesvirtual_lg.png",
+				"width":296,
+				"height":117
+			}
+          }
+      }
+    </script>
+
+
+
+    
+		<link href="/includes/componentes_responsive/fancyBox/source/jquery.fancybox.css" rel="stylesheet" type="text/css">	
+		<link rel="stylesheet" href="/includes/css_responsive/funcionalidades/visor.css" type="text/css" />
+		<!--ES: Para la nueva XSL -->
+		
+    
+	    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+		
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="/includes/componentes_responsive/jquery-1.12.3.min.js"></script>
+
+         
+            <script type="text/javascript" src="/includes/js_responsive/diccenlinea.js"></script>
+        
+        			
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="/includes/js_responsive/html5shiv.js" type="text/javascript"></script>	
+		<script src="/includes/js_responsive/respond.min.js" type="text/javascript"></script>	
+	<![endif]-->
+	
+	<script type="text/javascript">
+	//<![CDATA[
+	(function(doc) {
+
+	var addEvent = 'addEventListener',
+	    type = 'gesturestart',
+	    qsa = 'querySelectorAll',
+	    scales = [1, 1],
+	    meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+	function fix() {
+		meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+		doc.removeEventListener(type, fix, true);
+	}
+
+	if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+		fix();
+		scales = [.25, 1.6];
+		doc[addEvent](type, fix, true);
+	}
+
+	}(document));
+//]]>
+</script>
+	
+	
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@FBVMC"/>
+                           
+     <meta property="og:title" content="María"/>
+    
+	<meta property="og:description" content="" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.cervantesvirtual.com/obra-visor/maria--1/html/feddb01c-82b1-11df-acc7-002185ce6064_2.html"/>
+ 	    
+    <meta property="og:site_name" content="Biblioteca Virtual Miguel de Cervantes"/>
+
+     <script type='application/ld+json'>
+      {
+        "@context": "https://www.schema.org",
+        "@type": "Book",
+        "name": "María ",
+        "url": "https://www.cervantesvirtual.com/obra-visor/maria--1/html/feddb01c-82b1-11df-acc7-002185ce6064_2.html",
+		"description": "",									  
+                "author": [
+                      ],
+		  "publisher":
+          {
+           "@type":"Organization",
+           "url": "https://www.cervantesvirtual.com",
+           "name":"Biblioteca Virtual Miguel de Cervantes",           
+            "description": "La Biblioteca Virtual Miguel de Cervantes, la primera en lengua castellana, es un fondo bibliográfico con obras de Literatura, Historia, Ciencias, etc., de libre acceso. Incluye trabajos de investigación, catálogo en otras lenguas y bibliotecas del mundo",
+			"logo": {
+				"@type": "ImageObject",
+				"url":"https://www.cervantesvirtual.com/includes/css/cervantesvirtual_lg.png",
+				"width":296,
+				"height":117
+			}
+          }
+      }
+    </script>
+
+
+
+    </head>
+
+    <body onload="analizadorVersos()" id="visorHTML" class="visor  ">
+
+    <a name="inicio"></a>    
+    <a class="skip-navigation" href="#contenido_principal">Saltar al contenido principal</a>
+    <div id="contenedor" class="container"> 
+            <div id="cabecera" class="clearfix">
+			<header role="banner">
+            <h1 class="sr-only">Visor de obras.</h1>
+			<div id="menu">
+				<nav class="navbar navbar-default navbar-fixed-top" role="navigation">					
+				<div id="opObra">
+		 		    <div id="logo" class="navbar-brand navbar-left"><a href="/" class="" title="Página de inicio">Biblioteca Virtual Miguel de Cervantes</a></div>
+					<div id="buscador">
+                    <h2 class="sr-only">Buscador</h2>
+					<form class="form-horizontal" role="search" method="get"  action="/buscador/">
+					<div class="input-group">
+				      <input type="text" class="form-control" name="q" placeholder="Búsqueda por título, autor o contenido" title="Buscar">
+					  <span id="btn_buscar" class="input-group-btn"><button class="btn btn-warning" type="submit" style="color:#000;"><span class="glyphicon glyphicon-search"></span><span class="sr-only">Buscar</span></button></span>
+					</div>
+					</form>
+					 <!--				<h2 class="tituloBloque">María </h2>-->					
+					</div>			
+                    <h2 class="sr-only">Opciones de navegación</h2>
+					<div id="opciones">
+					<ul class="nav navbar-nav" role="menubar">
+<!--                      <li class="navbar-toggle btn-lg boton-buscar" data-toggle="collapse" data-target="#buscador"><span class="glyphicon glyphicon-search"></span><span class="sr-only">Buscar</span></li>-->
+												<li role="menuitem" class="dropdown">
+						<a href="#" class="dropdown-toggle" title="Portales relacionados" data-placement="bottom" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-link"><span>Portales</span></span> <span class="caret"></span></a>                        
+				        <ul class="dropdown-menu" role="menu"> 
+				        						<li role="menuitem">
+						<a href="/portales/biblioteca_americana/" rel="external" title="Visitar Biblioteca americana">Biblioteca americana</a></li>
+												<li role="menuitem">
+						<a href="/portales/jorge_isaacs/" rel="external" title="Visitar Jorge Isaacs">Jorge Isaacs</a></li>
+												<li role="menuitem">
+						<a href="/portales/novela_hispanoamericana_fondo_benito_varela/" rel="external" title="Visitar Novela hispanoamericana del siglo XIX / Fondo Benito Varela Jácome">Novela hispanoamericana del siglo XIX / Fondo Benito Varela Jácome</a></li>
+												</ul>
+					  </li>
+					    
+					  						<li class="dropdown" role="menuitem">
+						<a href="#" class="dropdown-toggle" title="Ver más ediciones, idiomas y formatos" data-toggle="dropdown" role="button" aria-expanded="false">
+                        <span class="glyphicon glyphicon-book"><span>Ver más</span></span> <span class="caret"></span></a>                        
+				        <ul class="dropdown-menu" role="menu">
+				                                                            <li role="menuitem"><a href="/obra/maria-923911/" title="Visitar María [Ebook]">María [Ebook]</a></li>
+        				    														                                        </ul>
+					  </li>
+					          
+  					  <li role="menuitem"><a href="#inicio" data-toggle="tooltip" title="Subir" data-placement="bottom"><span class="glyphicon glyphicon-chevron-up"><span>Subir</span></span></a></li>		
+					                                              <li role="menuitem"><a href="/obra-visor/maria--1/html/?indice=1" data-toggle="tooltip" title="Índice" data-placement="bottom"><span class="glyphicon glyphicon-list"><span>Índice</span></span></a></li>
+                                          					 					  <li role="menuitem"><a class="verficha" href="/obra/maria--1/" data-toggle="tooltip" title="Ver ficha" data-placement="bottom"><span class="glyphicon glyphicon-credit-card"><span>Ficha</span></span></a></li>				  					  			  
+					  </ul>					  
+					  </div>                      
+					 <!-- <div id="encabezado_2">
+					 					<h2 class="tituloBloque">María</h2>					
+					</div>		-->		
+				</div>                    
+				</nav>                
+			</div>
+			</header>
+			</div>
+            <main role="main" id="contenido_principal">
+            <section id="central">				
+<!--		    <a id="diccionario" href="" title="Selecciona una palabra y presiona la tecla d para obtener su definición."></a>-->
+                <a id="diccionario" href="#" role="button" class="ayuda" data-toggle="modal" data-target="#"><span class="sr-only">Selecciona una palabra y presiona la tecla d para obtener su definición.</span></a>
+
+				<div id="cuerpo">
+														
+                 
+					<!--<h2 id="tituloObra" class="tituloBloque">María </h2> -->
+                    
+                   			                        <div id="obra" class="max_img">
+									<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for Linux (vers 25 March 2009), see www.w3.org" />
+<title></title>
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<link rel="stylesheet" type="text/css" href=
+"/includes/css_obras/obras.css" />
+<link rel="stylesheet" type="text/css" href=
+"/includes/css_obras/fuentes.css" />
+<style type="text/css">
+/*<![CDATA[*/
+<!--
+ body
+ {
+ color:Black;
+ background-color:White;
+
+ }
+ a:link { color:#003366 }
+ a:visited { color:#003366 }
+ a:active { color:#003366 }
+-->
+/*]]>*/
+</style>
+
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+<!--
+
+function cargar (fichero)
+{
+window.location=fichero
+}
+
+//-->
+//]]>
+</script>
+<style type="text/css" media="screen">
+/*<![CDATA[*/
+<!--
+@import "/includes/css_obras/ficha.css";
+-->
+/*]]>*/
+</style>
+</head>
+<body>
+<div align="center"><a href=
+"feddb01c-82b1-11df-acc7-002185ce6064.html"><img align="right" alt=
+"Indice" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botinx.gif" /></a> <a href="feddb01c-82b1-11df-acc7-002185ce6064_3.html"><img align=
+"right" alt="Siguiente" border="0" width="13" height="10" hspace=
+"0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botnext.gif" /></a><br />
+<br />
+<br /></div>
+<a name="I_0_" id="I_0_"></a><a href="#I_1_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>
+<h1 class="tit">Mar&iacute;a</h1>
+<br />
+<p align="center">Jorge Isaacs</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_1_" id="I_1_"></a><a href="#I_0_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_2_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>A los hermanos de Efra&iacute;n</h2>
+</div>
+<a name="0"></a>
+<p style="text-align: justify;text-indent:30px;">He aqu&iacute;,
+caros amigos m&iacute;os, la historia de la adolescencia de
+aqu&eacute;l a quien tanto amasteis y que ya no existe. Mucho
+tiempo os he hecho esperar estas p&aacute;ginas. Despu&eacute;s de
+escritas me han parecido p&aacute;lidas e indignas de ser ofrecidas
+como un testimonio de mi gratitud y de mi afecto. Vosotros no
+ignor&aacute;is las palabras que pronunci&oacute; aquella noche
+terrible, al poner en mis manos el libro de sus recuerdos:
+&laquo;Lo que ah&iacute; falta t&uacute; lo sabes; podr&aacute;s
+leer hasta lo que mis l&aacute;grimas han borrado&raquo;.
+&iexcl;Dulce y triste misi&oacute;n! Leedlas, pues, y si
+suspend&eacute;is la lectura para llorar, ese llanto me
+probar&aacute; que la he cumplido fielmente.</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_2_" id="I_2_"></a><a href="#I_1_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_3_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- I -</h2>
+</div>
+<a name="1"></a>
+<p style="text-align: justify;text-indent:30px;">Era yo ni&ntilde;o
+a&uacute;n cuando me alejaron de la casa paterna para que diera
+principio a mis estudios en el colegio del doctor Lorenzo
+Mar&iacute;a Lleras, establecido en Bogot&aacute; hac&iacute;a
+pocos a&ntilde;os, y famoso en toda la Rep&uacute;blica por aquel
+tiempo.</p>
+<a name="2"></a>
+<p style="text-align: justify;text-indent:30px;">En la noche
+v&iacute;spera de mi viaje, despu&eacute;s de la velada,
+entr&oacute; a mi cuarto una de mis hermanas, y sin decirme una
+sola palabra cari&ntilde;osa, porque los sollozos le embargaban la
+voz, cort&oacute; de mi cabeza unos cabellos: cuando sali&oacute;,
+hab&iacute;an rodado por mi cuello algunas l&aacute;grimas
+suyas.</p>
+<a name="3"></a>
+<p style="text-align: justify;text-indent:30px;">Me dorm&iacute;
+llorando y experiment&eacute; como un vago presentimiento de muchos
+pesares que deb&iacute;a sufrir despu&eacute;s. Esos cabellos
+quitados a una cabeza infantil; aquella precauci&oacute;n del amor
+contra la muerte delante de tanta vida, hicieron que durante el
+sue&ntilde;o vagase mi alma por todos los sitios donde hab&iacute;a
+pasado, sin comprenderlo, las horas m&aacute;s felices de mi
+existencia.</p>
+<a name="4"></a>
+<p style="text-align: justify;text-indent:30px;">A la ma&ntilde;ana
+siguiente mi padre desat&oacute; de mi cabeza, humedecida por
+tantas l&aacute;grimas, los brazos de mi madre. Mis hermanas al
+decirme sus adioses las enjugaron con besos. Mar&iacute;a
+esper&oacute; humildemente su turno, y balbuciendo su despedida,
+junt&oacute; su mejilla sonrosada a la m&iacute;a, helada por la
+primera sensaci&oacute;n de dolor.</p>
+<a name="5"></a>
+<p style="text-align: justify;text-indent:30px;">Pocos momentos
+despu&eacute;s segu&iacute; a mi padre, que ocultaba el rostro a
+mis miradas. Las pisadas de nuestros caballos en el sendero
+guijarroso ahogaban mis &uacute;ltimos sollozos. El rumor del
+Sabaletas, cuyas vegas quedaban a nuestra derecha, se aminoraba por
+instantes. D&aacute;bamos ya la vuelta a una de las colinas de la
+vereda en las que sol&iacute;an divisarse desde la casa viajeros
+deseados; volv&iacute; la vista hacia ella buscando uno de tantos
+seres queridos: Mar&iacute;a estaba bajo las enredaderas que
+adornaban las ventanas del aposento de mi madre.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_3_" id="I_3_"></a><a href="#I_2_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_4_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- II -</h2>
+</div>
+<a name="6"></a>
+<p style="text-align: justify;text-indent:30px;">Pasados seis
+a&ntilde;os, los &uacute;ltimos d&iacute;as de un lujoso agosto me
+recibieron al regresar al nativo valle. Mi coraz&oacute;n rebosaba
+de amor patrio. Era ya la &uacute;ltima jornada del viaje, y yo
+gozaba de la m&aacute;s perfumada ma&ntilde;ana del verano. El
+cielo ten&iacute;a un tinte azul p&aacute;lido: hacia el oriente y
+sobre las crestas alt&iacute;simas de las monta&ntilde;as, medio
+enlutadas a&uacute;n, vagaban algunas nubecillas de oro, como las
+gasas del turbante de una bailarina esparcidas por un aliento
+amoroso. Hacia el sur flotaban las nieblas que durante la noche
+hab&iacute;an embozado los montes lejanos. Cruzaba planicies de
+verdes gramales, regadas por riachuelos cuyo paso me
+obstru&iacute;an hermosas vacadas, que abandonaban sus sesteaderos
+para internarse en las lagunas o en sendas abovedadas por
+florecidos p&iacute;samos e higuerones frondosos. Mis ojos se
+hab&iacute;an fijado con avidez en aquellos sitios medio ocultos al
+viajero por las copas de a&ntilde;osos gruduales; en aquellos
+cortijos donde hab&iacute;a dejado gentes virtuosas y amigas. En
+tales momentos no habr&iacute;an conmovido mi coraz&oacute;n las
+arias del piano de U***: &iexcl;los perfumes que aspiraba eran tan
+gratos comparados con el de los vestidos lujosos de ella; el canto
+de aquellas aves sin nombre ten&iacute;a armon&iacute;as tan dulces
+a mi coraz&oacute;n!</p>
+<a name="7"></a>
+<p style="text-align: justify;text-indent:30px;">Estaba mudo ante
+tanta belleza, cuyo recuerdo hab&iacute;a cre&iacute;do conservar
+en la memoria porque algunas de mis estrofas, admiradas por mis
+condisc&iacute;pulos, ten&iacute;an de ella p&aacute;lidas tintas.
+Cuando en un sal&oacute;n de baile, inundado de luz, lleno de
+melod&iacute;as voluptuosas, de aromas mil mezclados, de susurros
+de tantos ropajes de mujeres seductoras, encontramos aquella con
+quien hemos so&ntilde;ado a los dieciocho a&ntilde;os, y una mirada
+fugitiva suya quema nuestra frente, y su voz hace enmudecer por un
+instante toda otra voz para nosotros, y sus flores dejan tras
+s&iacute; esencias desconocidas; entonces caemos en una
+postraci&oacute;n celestial: nuestra voz es impotente, nuestros
+o&iacute;dos no escuchan ya la suya, nuestras miradas no pueden
+seguirla. Pero cuando, refrescada la mente, vuelve ella a la
+memoria horas despu&eacute;s, nuestros labios murmuran en cantares
+su alabanza, y es esa mujer, es su acento, es su mirada, es su leve
+paso sobre las alfombras, lo que remeda aquel canto, que el vulgo
+creer&aacute; ideal. As&iacute; el cielo, los horizontes, las
+pampas y las cumbres del Cauca, hacen enmudecer a quien los
+contempla. Las grandes bellezas de la creaci&oacute;n no pueden a
+un tiempo ser vistas y cantadas: es necesario que vuelvan a el alma
+empalidecidas por la memoria infiel.</p>
+<a name="8"></a>
+<p style="text-align: justify;text-indent:30px;">Antes de ponerse
+el sol, ya hab&iacute;a yo visto blanquear sobre la falda de la
+monta&ntilde;a la casa de mis padres. Al acercarme a ella, contaba
+con mirada ansiosa los grupos de sus sauces y naranjos, al
+trav&eacute;s de los cuales vi cruzar poco despu&eacute;s las luces
+que se repart&iacute;an en las habitaciones.</p>
+<a name="9"></a>
+<p style="text-align: justify;text-indent:30px;">Respiraba al fin
+aquel olor nunca olvidado del huerto que se vio formar. Las
+herraduras de mi caballo chispearon sobre el empedrado del patio.
+O&iacute; un grito indefinible; era la voz de mi madre: al
+estrecharme ella en los brazos y acercarme a su pecho, una sombra
+me cubri&oacute; los ojos: supremo placer que conmov&iacute;a a una
+naturaleza virgen.</p>
+<a name="10"></a>
+<p style="text-align: justify;text-indent:30px;">Cuando
+trat&eacute; de reconocer en las mujeres que ve&iacute;a, a las
+hermanas que dej&eacute; ni&ntilde;as, Mar&iacute;a estaba en pie
+junto a m&iacute;, y velaban sus ojos anchos p&aacute;rpados
+orlados de largas pesta&ntilde;as. Fue su rostro el que se
+cubri&oacute; de m&aacute;s notable rubor cuando al rodar mi brazo
+de sus hombros, roz&oacute; con su talle; y sus ojos estaban
+humedecidos a&uacute;n, al sonre&iacute;r a mi primera
+expresi&oacute;n afectuosa, como los de un ni&ntilde;o cuyo llanto
+ha acallado una caricia materna.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_4_" id="I_4_"></a><a href="#I_3_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_5_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- III -</h2>
+</div>
+<a name="11"></a>
+<p style="text-align: justify;text-indent:30px;">A las ocho fuimos
+al comedor, que estaba pintorescamente situado en la parte oriental
+de la casa. Desde &eacute;l se ve&iacute;an las crestas desnudas de
+las monta&ntilde;as sobre el fondo estrellado del cielo. Las auras
+del desierto pasaban por el jard&iacute;n recogiendo aromas para
+venir a juguetear con los rosales que nos rodeaban. El viento
+voluble dejaba o&iacute;r por instantes el rumor del r&iacute;o.
+Aquella naturaleza parec&iacute;a ostentar toda la hermosura de sus
+noches, como para recibir a un hu&eacute;sped amigo.</p>
+<a name="12"></a>
+<p style="text-align: justify;text-indent:30px;">Mi padre
+ocup&oacute; la cabecera de la mesa y me hizo colocar a su derecha;
+mi madre se sent&oacute; a la izquierda, como de costumbre; mis
+hermanas y los ni&ntilde;os se situaron indistintamente, y
+Mar&iacute;a qued&oacute; frente a m&iacute;.</p>
+<a name="13"></a>
+<p style="text-align: justify;text-indent:30px;">Mi padre,
+encanecido durante mi ausencia, me dirig&iacute;a miradas de
+satisfacci&oacute;n, y sonre&iacute;a con aquel su modo malicioso y
+dulce a un mismo tiempo, que no he visto nunca en otros labios. Mi
+madre hablaba poco, porque en esos momentos era m&aacute;s feliz
+que todos los que la rodeaban. Mis hermanas se empe&ntilde;aban en
+hacerme probar las colaciones y cremas; y se sonrojaba
+aqu&eacute;lla a quien yo dirig&iacute;a una palabra lisonjera o
+una mirada examinadora. Mar&iacute;a me ocultaba sus ojos
+tenazmente; pero pude admirar en ellos la brillantez y hermosura de
+los de las mujeres de su raza, en dos o tres veces que a su pesar
+se encontraron de lleno con los m&iacute;os; sus labios rojos,
+h&uacute;medos y graciosamente imperativos, me mostraron
+s&oacute;lo un instante el velado primor de su linda dentadura.
+Llevaba, como mis hermanas, la abundante cabellera
+casta&ntilde;o-oscura arreglada en dos trenzas, sobre el nacimiento
+de una de las cuales se ve&iacute;a un clavel encarnado.
+Vest&iacute;a un traje de muselina ligera, casi azul, del cual
+s&oacute;lo se descubr&iacute;a parte del corpi&ntilde;o y la
+falda, pues un pa&ntilde;ol&oacute;n de algod&oacute;n fino color
+de p&uacute;rpura, le ocultaba el seno hasta la base de su garganta
+de blancura mate. Al volver las trenzas a la espalda, de donde
+rodaban al inclinarse ella a servir, admir&eacute; el env&eacute;s
+de sus brazos deliciosamente torneados, y sus manos cuidadas como
+las de una reina.</p>
+<a name="14"></a>
+<p style="text-align: justify;text-indent:30px;">Concluida la cena,
+los esclavos levantaron los manteles; uno de ellos rez&oacute; el
+<em>Padre nuestro</em>, y sus amos completamos la
+oraci&oacute;n.</p>
+<a name="15"></a>
+<p style="text-align: justify;text-indent:30px;">La
+conversaci&oacute;n se hizo entonces confidencial entre mis padres
+y yo.</p>
+<a name="16"></a>
+<p style="text-align: justify;text-indent:30px;">Mar&iacute;a
+tom&oacute; en brazos el ni&ntilde;o que dorm&iacute;a en su
+regazo, y mis hermanas la siguieron a los aposentos: ellas la
+amaban mucho y se disputaban su dulce afecto.</p>
+<a name="17"></a>
+<p style="text-align: justify;text-indent:30px;">Ya en el
+sal&oacute;n, mi padre para retirarse, les bes&oacute; la frente a
+sus hijas. Quiso mi madre que yo viera el cuarto que se me
+hab&iacute;a destinado. Mis hermanas y Mar&iacute;a, menos
+t&iacute;midas ya, quer&iacute;an observar qu&eacute; efecto me
+causaba el esmero con que estaba adornado. El cuarto quedaba en el
+extremo del corredor del frente de la casa: su &uacute;nica ventana
+ten&iacute;a por la parte de adentro la altura de una mesa
+c&oacute;moda; en aquel momento, estando abiertas las hojas y
+rejas, entraban por ella floridas ramas de rosales a acabar de
+engalanar la mesa, en donde un hermoso florero de porcelana azul
+conten&iacute;a trabajosamente en su copa azucenas y lirios,
+claveles y campanillas moradas del r&iacute;o. Las cortinas del
+lecho eran de gasa blanca atadas a las columnas con cintas anchas
+color de rosa; y cerca de la cabecera, por una fineza materna,
+estaba la Dolorosa peque&ntilde;a que me hab&iacute;a servido para
+mis altares cuando era ni&ntilde;o. Algunos mapas, asientos
+c&oacute;modos y un hermoso juego de ba&ntilde;o completaban el
+ajuar.</p>
+<a name="18"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Qu&eacute;
+bellas flores! -exclam&eacute; al ver todas las que del
+jard&iacute;n y del florero cubr&iacute;an la mesa.</p>
+<a name="19"></a>
+<p style="text-align: justify;text-indent:30px;">-Mar&iacute;a
+recordaba cu&aacute;nto te agradaban -observ&oacute; mi madre.</p>
+<a name="20"></a>
+<p style="text-align: justify;text-indent:30px;">Volv&iacute; los
+ojos para darle las gracias, y los suyos como que se esforzaban en
+soportar aquella vez mi mirada.</p>
+<a name="21"></a>
+<p style="text-align: justify;text-indent:30px;">-Mar&iacute;a
+-dije- va a guard&aacute;rmelas, porque son nocivas en la pieza
+donde se duerme.</p>
+<a name="22"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Es
+verdad? -respondi&oacute;-; pues las repondr&eacute;
+ma&ntilde;ana.</p>
+<a name="23"></a>
+<p style="text-align: justify;text-indent:30px;">&iexcl;Qu&eacute;
+dulce era su acento!</p>
+<a name="24"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Tantas
+as&iacute; hay?</p>
+<a name="25"></a>
+<p style="text-align: justify;text-indent:30px;">
+-Much&iacute;simas; se repondr&aacute;n todos los d&iacute;as.</p>
+<a name="26"></a>
+<p style="text-align: justify;text-indent:30px;">Despu&eacute;s que
+mi madre me abraz&oacute;, Emma me tendi&oacute; la mano, y
+Mar&iacute;a, abandon&aacute;ndome por un instante la suya,
+sonri&oacute; como en la infancia me sonre&iacute;a: esa sonrisa
+hoyuelada era la de la ni&ntilde;a de mis amores infantiles
+sorprendida en el rostro de una virgen de Rafael.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_5_" id="I_5_"></a><a href="#I_4_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_6_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- IV -</h2>
+</div>
+<a name="27"></a>
+<p style="text-align: justify;text-indent:30px;">Dorm&iacute;
+tranquilo, como cuando me adormec&iacute;a en la ni&ntilde;ez uno
+de los maravillosos cuentos del esclavo Pedro.</p>
+<a name="28"></a>
+<p style="text-align: justify;text-indent:30px;">So&ntilde;&eacute;
+que Mar&iacute;a entraba a renovar las flores de mi mesa, y que al
+salir hab&iacute;a rozado las cortinas de mi lecho con su falda de
+muselina vaporosa salpicada de florecillas azules.</p>
+<a name="29"></a>
+<p style="text-align: justify;text-indent:30px;">Cuando
+despert&eacute;, las aves cantaban revoloteando en los follajes de
+los naranjos y pomarrosos, y los azahares llenaron mi estancia con
+su aroma tan luego como entreabr&iacute; la puerta.</p>
+<a name="30"></a>
+<p style="text-align: justify;text-indent:30px;">La voz de
+Mar&iacute;a lleg&oacute; entonces a mis o&iacute;dos dulce y pura:
+era su voz de ni&ntilde;a, pero m&aacute;s grave y lista ya para
+prestarse a todas las modulaciones de la ternura y de la
+pasi&oacute;n. &iexcl;Ay! &iexcl;cu&aacute;ntas veces en mis
+sue&ntilde;os un eco de ese mismo acento ha llegado despu&eacute;s
+a mi alma, y mis ojos han buscado en vano aquel huerto donde tan
+bella la vi en aquella ma&ntilde;ana de agosto!</p>
+<a name="31"></a>
+<p style="text-align: justify;text-indent:30px;">La ni&ntilde;a
+cuyas inocentes caricias hab&iacute;an sido todas para m&iacute;,
+no ser&iacute;a ya la compa&ntilde;era de mis juegos; pero en las
+tardes doradas de verano estar&iacute;a en los paseos a mi lado, en
+medio del grupo de mis hermanas; le ayudar&iacute;a yo a cultivar
+sus flores predilectas; en las veladas oir&iacute;a su voz, me
+mirar&iacute;an sus ojos, nos separar&iacute;a un solo paso.</p>
+<a name="32"></a>
+<p style="text-align: justify;text-indent:30px;">Luego que me hube
+arreglado ligeramente los vestidos, abr&iacute; la ventana, y
+divis&eacute; a Mar&iacute;a en una de las calles del
+jard&iacute;n, acompa&ntilde;ada de Emma: llevaba un traje
+m&aacute;s oscuro que el de la v&iacute;spera, y el
+pa&ntilde;ol&oacute;n color de p&uacute;rpura, enlazado a la
+cintura, le ca&iacute;a en forma de banda sobre la falda; su larga
+cabellera, dividida en dos crenchas, ocult&aacute;bale a medias
+parte de la espalda y pecho: ella y mi hermana ten&iacute;an
+descalzos los pies. Llevaba una vasija de porcelana poco m&aacute;s
+blanca que los brazos que la sosten&iacute;an, la que iba llenando
+de rosas abiertas durante la noche, desechando por marchitas las
+menos h&uacute;medas y lozanas. Ella, riendo con su
+compa&ntilde;era, hund&iacute;a las mejillas, m&aacute;s frescas
+que las rosas, en el taz&oacute;n rebosante. Descubri&oacute;me
+Emma: Mar&iacute;a lo not&oacute;, y sin volverse hacia m&iacute;,
+cay&oacute; de rodillas para ocultarme sus pies, desat&oacute;se
+del talle el pa&ntilde;ol&oacute;n, y cubri&eacute;ndose con
+&eacute;l los hombros, fing&iacute;a jugar con las flores. Las
+hijas n&uacute;biles de los patriarcas no fueron m&aacute;s
+hermosas en las alboradas en que recog&iacute;an flores para sus
+altares.</p>
+<a name="33"></a>
+<p style="text-align: justify;text-indent:30px;">Pasado el
+almuerzo, me llam&oacute; mi madre a su costurero. Emma y
+Mar&iacute;a estaban bordando cerca de ella. Volvi&oacute;
+&eacute;sta a sonrojarse cuando me present&eacute;; recordaba tal
+vez la sorpresa que involuntariamente le hab&iacute;a yo dado en la
+ma&ntilde;ana.</p>
+<a name="34"></a>
+<p style="text-align: justify;text-indent:30px;">Mi madre
+quer&iacute;a verme y o&iacute;rme sin cesar.</p>
+<a name="35"></a>
+<p style="text-align: justify;text-indent:30px;">Emma, m&aacute;s
+insinuante ya, me preguntaba mil cosas de Bogot&aacute;; me
+exig&iacute;a que les describiera bailes espl&eacute;ndidos,
+hermosos vestidos de se&ntilde;ora que estuvieran en uso, las
+m&aacute;s bellas mujeres que figuraran entonces en la alta
+sociedad. O&iacute;an sin dejar sus labores. Mar&iacute;a me miraba
+algunas veces al descuido, o hac&iacute;a por lo bajo observaciones
+a su compa&ntilde;era de asiento; y al ponerse en pie para
+acercarse a mi madre a consultar algo sobre el bordado, pude ver
+sus pies primorosamente calzados: su paso ligero y digno revelaba
+todo el orgullo, no abatido, de nuestra raza, y el seductivo recato
+de la virgen cristiana. Ilumin&aacute;ronsele los ojos cuando mi
+madre manifest&oacute; deseo de que yo diese a las muchachas
+algunas lecciones de gram&aacute;tica y geograf&iacute;a, materias
+en que no ten&iacute;an sino muy escasas nociones. Conv&iacute;nose
+en que dar&iacute;amos principio a las lecciones pasados seis u
+ocho d&iacute;as, durante los cuales podr&iacute;a yo graduar el
+estado de los conocimientos de cada una.</p>
+<a name="36"></a>
+<p style="text-align: justify;text-indent:30px;">Horas
+despu&eacute;s me avisaron que el ba&ntilde;o estaba preparado y
+fui a &eacute;l. Un frondoso y corpulento naranjo, agobiado de
+frutos maduros, formaba pabell&oacute;n sobre el ancho estanque de
+canteras bru&ntilde;idas: sobrenadaban en el agua much&iacute;simas
+rosas: semej&aacute;base a un ba&ntilde;o oriental, y estaba
+perfumado con las flores que en la ma&ntilde;ana hab&iacute;a
+recogido Mar&iacute;a.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_6_" id="I_6_"></a><a href="#I_5_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_7_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- V -</h2>
+</div>
+<a name="37"></a>
+<p style="text-align: justify;text-indent:30px;">Hab&iacute;an
+pasado tres d&iacute;as cuando me convid&oacute; mi padre a visitar
+sus haciendas del valle, y fue preciso complacerlo; por otra parte,
+yo ten&iacute;a inter&eacute;s real a favor de sus empresas. Mi
+madre se empe&ntilde;&oacute; vivamente por nuestro pronto regreso.
+Mis hermanas se entristecieron. Mar&iacute;a no me suplic&oacute;,
+como ellas, que regresase en la misma semana; pero me segu&iacute;a
+incesantemente con los ojos durante los preparativos de viaje.</p>
+<a name="38"></a>
+<p style="text-align: justify;text-indent:30px;">En mi ausencia, mi
+padre hab&iacute;a mejorado sus propiedades notablemente: una
+costosa y bella f&aacute;brica de az&uacute;car, muchas fanegadas
+de ca&ntilde;a para abastecerla, extensas dehesas con ganado vacuno
+y caballar, buenos cebaderos y una lujosa casa de
+habitaci&oacute;n, constitu&iacute;an lo m&aacute;s notable de sus
+haciendas de tierra caliente. Los esclavos, bien vestidos y
+contentos, hasta donde es posible estarlo en la servidumbre, eran
+sumisos y afectuosos para con su amo. Hall&eacute; hombres a los
+que, ni&ntilde;os poco antes, me hab&iacute;an ense&ntilde;ado a
+poner trampas a las chilacoas y guatines en la espesura de los
+bosques: sus padres y ellos volvieron a verme con
+inequ&iacute;vocas se&ntilde;ales de placer. Solamente a Pedro, el
+buen amigo y fiel ayo, no deb&iacute;a encontrarlo: &eacute;l
+hab&iacute;a derramado l&aacute;grimas al colocarme sobre el
+caballo el d&iacute;a de mi partida para Bogot&aacute;, diciendo:
+&laquo;amito m&iacute;o, ya no te ver&eacute; m&aacute;s&raquo;. El
+coraz&oacute;n le avisaba que morir&iacute;a antes de mi
+regreso.</p>
+<a name="39"></a>
+<p style="text-align: justify;text-indent:30px;">Pude notar que mi
+padre, sin dejar de ser amo, daba un trato cari&ntilde;oso a sus
+esclavos, se mostraba celoso por la buena conducta de sus esposas y
+acariciaba a los ni&ntilde;os.</p>
+<a name="40"></a>
+<p style="text-align: justify;text-indent:30px;">Una tarde, ya a
+puestas del sol, regres&aacute;bamos de las labranzas a la
+f&aacute;brica mi padre, Higinio (el mayordomo) y yo. Ellos
+hablaban de trabajos hechos y por hacer; a m&iacute; me ocupaban
+cosas menos serias: pensaba en los d&iacute;as de mi infancia. El
+olor peculiar de los bosques reci&eacute;n derribados y el de las
+pi&ntilde;uelas en saz&oacute;n; la greguer&iacute;a de los loros
+en los guaduales y guayabales vecinos; el ta&ntilde;ido lejano del
+cuerno de alg&uacute;n pastor, repetido por los montes: las
+castrueras de los esclavos que volv&iacute;an espaciosamente de las
+labores con las herramientas al hombro; los arreboles vistos al
+trav&eacute;s de los ca&ntilde;averales movedizos: todo me
+recordaba las tardes en que abusando mis hermanas, Mar&iacute;a y
+yo de alguna licencia de m&iacute; madre, obtenida a fuerza de
+tenacidad, nos solaz&aacute;bamos recogiendo guayabas de nuestros
+&aacute;rboles predilectos, sacando nidos de pi&ntilde;uelas,
+muchas veces con grave lesi&oacute;n de brazos y manos, y espiando
+polluelos de pericos en las cercas de los corrales.</p>
+<a name="41"></a>
+<p style="text-align: justify;text-indent:30px;">Al encontrarnos
+con un grupo de esclavos, dijo mi padre a un joven negro de notable
+apostura:</p>
+<a name="42"></a>
+<p style="text-align: justify;text-indent:30px;">-Conque, Bruno,
+&iquest;todo lo de tu matrimonio est&aacute; arreglado para pasado
+ma&ntilde;ana?</p>
+<a name="43"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;, mi amo
+-le respondi&oacute; quit&aacute;ndose el sombrero de junco y
+apoy&aacute;ndose en el mango de su pala.</p>
+<a name="44"></a>
+<p style="text-align: justify;text-indent:30px;">
+-&iquest;Qui&eacute;nes son los padrinos?</p>
+<a name="45"></a>
+<p style="text-align: justify;text-indent:30px;">-&Ntilde;a Dolores
+y &ntilde;or Anselmo, si su merced quiere.</p>
+<a name="46"></a>
+<p style="text-align: justify;text-indent:30px;">-Bueno. Remigia y
+t&uacute; estar&eacute;is bien confesados. &iquest;Compraste todo
+lo que necesitabas para ella y para ti con el dinero que
+mand&eacute; darte?</p>
+<a name="47"></a>
+<p style="text-align: justify;text-indent:30px;">-Todo est&aacute;
+ya, mi amo.</p>
+<a name="48"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Y nada
+m&aacute;s deseas?</p>
+<a name="49"></a>
+<p style="text-align: justify;text-indent:30px;">-Su merced
+ver&aacute;.</p>
+<a name="50"></a>
+<p style="text-align: justify;text-indent:30px;">-El cuarto que te
+ha se&ntilde;alado Higinio &iquest;es bueno?</p>
+<a name="51"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;, mi
+amo.</p>
+<a name="52"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Ah! ya
+s&eacute;. Lo que quieres es baile.</p>
+<a name="53"></a>
+<p style="text-align: justify;text-indent:30px;">Ri&oacute;se
+entonces Bruno, mostrando sus dientes de blancura deslumbrante,
+volviendo a mirar a sus compa&ntilde;eros.</p>
+<a name="54"></a>
+<p style="text-align: justify;text-indent:30px;">-Justo es; te
+portas muy bien. Ya sabes -agreg&oacute; dirigi&eacute;ndose a
+Higinio-: arregla eso, y que queden contentos.</p>
+<a name="55"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Y sus
+mercedes se van antes? -pregunt&oacute; Bruno.</p>
+<a name="56"></a>
+<p style="text-align: justify;text-indent:30px;">-No -le
+respond&iacute;-; nos damos por convidados.</p>
+<a name="57"></a>
+<p style="text-align: justify;text-indent:30px;">En la madrugada
+del s&aacute;bado pr&oacute;ximo se casaron Bruno y Remigia. Esa
+noche a las siete montamos mi padre y yo para ir al baile, cuya
+m&uacute;sica empez&aacute;bamos a o&iacute;r. Cuando llegamos,
+Juli&aacute;n, el esclavo capit&aacute;n de la cuadrilla,
+sali&oacute; a tomarnos el estribo y a recibir nuestros caballos.
+Estaba lujoso con su vestido de domingo, y le pend&iacute;a de la
+cintura el largo machete de guarnici&oacute;n plateada, insignia de
+su empleo. Una sala de nuestra antigua casa de habitaci&oacute;n
+hab&iacute;a sido desocupada de los enseres de labor que
+conten&iacute;a, para hacer el baile en ella. Hab&iacute;anla
+rodeado de tarimas: en una ara&ntilde;a de madera suspendida de una
+de las vigas, daba vueltas media docena de luces: los
+m&uacute;sicos y cantores, mezcla de agregados, esclavos y
+manumisos, ocupaban una de las puertas. No hab&iacute;a sino dos
+flautas de ca&ntilde;a, un tambor improvisado, dos alfandoques y
+una pandereta; pero las finas voces de los negritos entonaban los
+bambucos con maestr&iacute;a tal; hab&iacute;a en sus cantos tan
+sentida combinaci&oacute;n de melanc&oacute;licos, alegres y
+ligeros acordes; los versos que cantaban eran tan tiernamente
+sencillos, que el m&aacute;s culto diletante hubiera escuchado en
+&eacute;xtasis aquella m&uacute;sica semisalvaje. Penetramos en la
+sala con zamarros y sombreros. Bailaban en ese momento Remigia y
+Bruno: ella con follao de boleros azules, tumbadillo de flores
+rojas, camisa blanca bordada de negro y gargantilla y zarcillos de
+cristal color de rub&iacute;, danzaba con toda la gentileza y
+donaire que eran de esperarse de su talle cimbrador. Bruno,
+doblados sobre los hombros los pa&ntilde;os de su ruana de hilo,
+calz&oacute;n de vistosa manta, camisa blanca aplanchada, y un
+cabiblanco nuevo a la cintura, zapateaba con destreza
+admirable.</p>
+<a name="58"></a>
+<p style="text-align: justify;text-indent:30px;">Pasada aquella
+mano, que as&iacute; llaman los campesinos cada pieza de baile,
+tocaron los m&uacute;sicos su m&aacute;s hermoso bambuco, porque
+Juli&aacute;n les anunci&oacute; que era para el amo. Remigia,
+animada por su marido y por el capit&aacute;n, se resolvi&oacute;
+al fin a bailar unos momentos con mi padre: pero entonces no se
+atrev&iacute;a a levantar los ojos, y sus movimientos en la danza
+eran menos espont&aacute;neos. Al cabo de una hora nos
+retiramos.</p>
+<a name="59"></a>
+<p style="text-align: justify;text-indent:30px;">Qued&oacute; mi
+padre satisfecho de mi atenci&oacute;n durante la visita que
+hicimos a las haciendas; mas cuando le dije que en adelante deseaba
+participar de sus fatigas qued&aacute;ndome a su lado, me
+manifest&oacute;, casi con pesar, que se ve&iacute;a en el caso de
+sacrificar a favor m&iacute;o su bienestar, cumpli&eacute;ndome la
+promesa que me ten&iacute;a hecha de tiempo atr&aacute;s, de
+enviarme a Europa a concluir mis estudios de medicina, y que
+deb&iacute;a emprender viaje, a m&aacute;s tardar dentro de cuatro
+meses. Al hablarme as&iacute;, su fisonom&iacute;a se
+revisti&oacute; de una seriedad solemne sin afectaci&oacute;n, que
+se notaba en &eacute;l cuando tomaba resoluciones irrevocables.
+Esto pasaba la tarde en que regres&aacute;bamos a la sierra.
+Empezaba a anochecer, y a no haber sido as&iacute;, habr&iacute;a
+notado la emoci&oacute;n que su negativa me causaba. El resto del
+camino se hizo en silencio. &iexcl;Cu&aacute;n feliz hubiera yo
+vuelto a ver a Mar&iacute;a, si la noticia de ese viaje no se
+hubiese interpuesto desde aquel momento entre mis esperanzas y
+ella!</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_7_" id="I_7_"></a><a href="#I_6_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_8_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- VI -</h2>
+</div>
+<a name="60"></a>
+<p style="text-align: justify;text-indent:30px;">&iquest;Qu&eacute;
+hab&iacute;a pasado en aquellos cuatro d&iacute;as en el alma de
+Mar&iacute;a?</p>
+<a name="61"></a>
+<p style="text-align: justify;text-indent:30px;">Iba ella a colocar
+una l&aacute;mpara en una de las mesas del sal&oacute;n cuando me
+acerqu&eacute; a saludarla; y ya hab&iacute;a extra&ntilde;ado no
+verla en medio del grupo de la familia en la grader&iacute;a donde
+acab&aacute;bamos de desmontarnos. El temblor de su mano expuso la
+l&aacute;mpara; y yo le prest&eacute; ayuda, menos tranquilo de lo
+que cre&iacute; estarlo. Pareci&aacute;me ligeramente
+p&aacute;lida, y alrededor de sus ojos hab&iacute;a una leve
+sombra, imperceptible para quien la hubiese visto sin mirarla.
+Volvi&oacute; el rostro hacia mi madre, que hablaba en ese momento,
+evitando as&iacute; que yo pudiera examinarlo ba&ntilde;ado por la
+luz que ten&iacute;amos cerca: not&eacute; entonces que en el
+nacimiento de una de las trenzas ten&iacute;a un clavel marchito; y
+era sin duda el que le hab&iacute;a dado yo la v&iacute;spera de mi
+marcha para el Valle. La crucecilla de coral esmaltado que
+hab&iacute;a tra&iacute;do para ella, igual a las de mis hermanas,
+la llevaba al cuello pendiente de un cord&oacute;n de pelo negro.
+Estuvo silenciosa, sentada en medio de las butacas que
+ocup&aacute;bamos mi madre y yo. Como la resoluci&oacute;n de mi
+padre sobre mi viaje no se apartaba de mi memoria, deb&iacute; de
+parecerle a ella triste, pues me dijo en voz casi baja:</p>
+<a name="62"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Te ha
+hecho da&ntilde;o el viaje?</p>
+<a name="63"></a>
+<p style="text-align: justify;text-indent:30px;">-No, Mar&iacute;a
+-le contest&eacute;-; pero nos hemos asoleado y hemos andado
+tanto...</p>
+<a name="64"></a>
+<p style="text-align: justify;text-indent:30px;">Iba a decirle algo
+m&aacute;s, pero el acento confidencial de su voz, la luz nueva
+para m&iacute; que sorprend&iacute; en sus ojos, me impidieron
+hacer otra cosa que mirarla, hasta que notando que se avergonzaba
+de la involuntaria fijeza de mis miradas, y encontr&aacute;ndome
+examinado por una de mi padre (m&aacute;s temible cuando cierta
+sonrisa pasajera vagaba en sus labios), sal&iacute; del
+sal&oacute;n con direcci&oacute;n a mi cuarto.</p>
+<a name="65"></a>
+<p style="text-align: justify;text-indent:30px;">Cerr&eacute; las
+puertas. All&iacute; estaban las flores recogidas por ella para
+m&iacute;: las aj&eacute; con mis besos; quise aspirar de una vez
+todos sus aromas, buscando en ellos los de los vestidos de
+Mar&iacute;a; ba&ntilde;&eacute;las con mis l&aacute;grimas...
+&iexcl;Ah! &iexcl;los que no hab&eacute;is llorado de felicidad
+as&iacute;, llorad de desesperaci&oacute;n, si ha pasado vuestra
+adolescencia, porque as&iacute; tampoco volver&eacute;is a amar
+ya!</p>
+<a name="66"></a>
+<p style="text-align: justify;text-indent:30px;">&iexcl;Primer
+amor!... noble orgullo de sentirnos amados: sacrificio dulce de
+todo lo que antes nos era caro a favor de la mujer querida:
+felicidad que comprada para un d&iacute;a con las l&aacute;grimas
+de toda una existencia, recibir&iacute;amos como un don de Dios:
+perfume para todas las horas del porvenir: luz inextinguible del
+pasado: flor guardada en el alma y que no es dado marchitar a los
+desenga&ntilde;os: &uacute;nico tesoro que no puede arrebatarnos la
+envidia de los hombres: delirio delicioso... inspiraci&oacute;n del
+cielo... &iexcl;Mar&iacute;a! &iexcl;Mar&iacute;a!
+&iexcl;Cu&aacute;nto te am&eacute;! &iexcl;Cu&aacute;nto te
+amara!...</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_8_" id="I_8_"></a><a href="#I_7_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_9_"><img align="right"
+alt="Abajo" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- VII -</h2>
+</div>
+<a name="67"></a>
+<p style="text-align: justify;text-indent:30px;">Cuando hizo mi
+padre el &uacute;ltimo viaje a las Antillas, Salom&oacute;n, primo
+suyo a quien mucho hab&iacute;a amado desde la ni&ntilde;ez,
+acababa de perder su esposa. Muy j&oacute;venes hab&iacute;an
+venido juntos a Sur-Am&eacute;rica; y en uno de sus viajes se
+enamor&oacute; mi padre de la hija de un espa&ntilde;ol,
+intr&eacute;pido capit&aacute;n de nav&iacute;o, que despu&eacute;s
+de haber dejado el servicio por algunos a&ntilde;os, se vio forzado
+en 1819 a tomar nuevamente las armas en defensa de los reyes de
+Espa&ntilde;a, y que muri&oacute; fusilado en Majagual el veinte de
+mayo de 1820.</p>
+<a name="68"></a>
+<p style="text-align: justify;text-indent:30px;">La madre de la
+joven que mi padre amaba exigi&oacute; por condici&oacute;n para
+d&aacute;rsela por esposa que renunciase &eacute;l a la
+religi&oacute;n judaica. Mi padre se hizo cristiano a los veinte
+a&ntilde;os de edad. Su primo se aficion&oacute; en aquellos
+d&iacute;as a la religi&oacute;n cat&oacute;lica, sin ceder por eso
+a las instancias para que tambi&eacute;n se hiciese bautizar, pues
+sab&iacute;a que lo que hecho por mi padre, le daba la esposa que
+deseaba, a &eacute;l le impedir&iacute;a ser aceptado por la mujer
+a quien amaba en Jamaica.</p>
+<a name="69"></a>
+<p style="text-align: justify;text-indent:30px;">Despu&eacute;s de
+algunos a&ntilde;os de separaci&oacute;n volvieron a verse, pues,
+los dos amigos. Ya era viudo Salom&oacute;n. Sara, su esposa, le
+hab&iacute;a dejado una ni&ntilde;a que ten&iacute;a a la
+saz&oacute;n tres a&ntilde;os. Mi padre lo encontr&oacute;
+desfigurado moral y f&iacute;sicamente por el dolor, y entonces su
+nueva religi&oacute;n le dio consuelos para su primo, consuelos que
+en vano hab&iacute;an buscado los parientes para salvarlo.
+Inst&oacute; a Salom&oacute;n para que le diera su hija a fin de
+educarla a nuestro lado; y se atrevi&oacute; a proponerle que la
+har&iacute;a cristiana. Salom&oacute;n acept&oacute;
+dici&eacute;ndole: &laquo;Es verdad que solamente mi hija me ha
+impedido emprender un viaje a la India, que mejorar&iacute;a mi
+esp&iacute;ritu y remediar&iacute;a mi pobreza: tambi&eacute;n ha
+sido ella mi &uacute;nico consuelo despu&eacute;s de la muerte de
+Sara; pero t&uacute; lo quieres, sea hija tuya. Las cristianas son
+dulces y buenas, y tu esposa debe de ser una santa madre. Si el
+cristianismo da en las desgracias supremas el alivio que t&uacute;
+me has dado, tal vez yo har&iacute;a desdichada a mi hija
+dej&aacute;ndola jud&iacute;a. No lo digas a nuestros parientes,
+pero cuando llegues a la primera costa donde se halle un sacerdote
+cat&oacute;lico, hazla bautizar y que le cambien el nombre de Ester
+en el de Mar&iacute;a&raquo;. Esto dec&iacute;a el infeliz
+derramando muchas l&aacute;grimas.</p>
+<a name="70"></a>
+<p style="text-align: justify;text-indent:30px;">A pocos
+d&iacute;as se daba a la vela en la bah&iacute;a de Montego la
+goleta que deb&iacute;a conducir a mi padre a las costas de Nueva
+Granada. La ligera nave ensayaba sus blancas alas, como una garza
+de nuestros bosques las suyas antes de emprender un largo vuelo.
+Salom&oacute;n entr&oacute; a la habitaci&oacute;n de mi padre, que
+acababa de arreglar su traje de a bordo, llevando a Ester sentada
+en uno de sus brazos, y pendiente del otro un cofre que
+conten&iacute;a el equipaje de la ni&ntilde;a: &eacute;sta
+tendi&oacute; los bracitos a su t&iacute;o, y Salom&oacute;n,
+poni&eacute;ndola en los de su amigo, se dej&oacute; caer
+sollozando sobre el peque&ntilde;o ba&uacute;l. Aquella criatura,
+cuya cabeza preciosa acababa de ba&ntilde;ar con una lluvia de
+l&aacute;grimas el bautismo del dolor antes que el de la
+religi&oacute;n de Jes&uacute;s, era un tesoro sagrado; mi padre lo
+sab&iacute;a bien, y no lo olvid&oacute; jam&aacute;s. A
+Salom&oacute;n le fue recordada por su amigo, al saltar &eacute;ste
+a la lancha que iba a separarlos, una promesa, y &eacute;l
+respondi&oacute; con voz ahogada: &laquo;Las oraciones de mi hija
+por m&iacute; y las m&iacute;as por ella y su madre, subir&aacute;n
+juntas a los pies del Crucificado&raquo;.</p>
+<a name="71"></a>
+<p style="text-align: justify;text-indent:30px;">Contaba yo siete
+a&ntilde;os cuando regres&oacute; mi padre, y desde&ntilde;&eacute;
+los juguetes preciosos que me trajo de su viaje, por admirar
+aquella ni&ntilde;a tan bella, tan dulce y sonriente. Mi madre la
+cubri&oacute; de caricias, y mis hermanas la agasajaron con
+ternura, desde el momento que mi padre, poni&eacute;ndola en el
+regazo de su esposa, le dijo: &laquo;&eacute;sta es la hija de
+Salom&oacute;n, que &eacute;l te env&iacute;a&raquo;.</p>
+<a name="72"></a>
+<p style="text-align: justify;text-indent:30px;">Durante nuestros
+juegos infantiles sus labios empezaron a modular acentos
+castellanos, tan armoniosos y seductores en una linda boca de mujer
+y en la risue&ntilde;a de un ni&ntilde;o.</p>
+<a name="73"></a>
+<p style="text-align: justify;text-indent:30px;">Habr&iacute;an
+corrido unos seis a&ntilde;os. Al entrar yo una tarde al cuarto de
+mi padre, le o&iacute; sollozar: ten&iacute;a los brazos cruzados
+sobre la mesa, y en ellos apoyaba la frente; cerca de &eacute;l mi
+madre lloraba, y en sus rodillas reclinaba Mar&iacute;a la cabeza,
+sin comprender ese dolor y casi indiferente a los lamentos de su
+t&iacute;o: era que una carta de Kingston, recibida aquel
+d&iacute;a, daba la nueva de la muerte de Salom&oacute;n. Recuerdo
+solamente una expresi&oacute;n de mi padre en aquella tarde:
+&laquo;Si todos me van abandonando sin que pueda recibir sus
+&uacute;ltimos adioses, &iquest;a qu&eacute; volver&eacute; yo a mi
+pa&iacute;s?&raquo;. &iexcl;Ay! &iexcl;sus cenizas deb&iacute;an
+descansar en tierra extra&ntilde;a, sin que los vientos del
+Oc&eacute;ano, en cuyas playas retoz&oacute; siendo ni&ntilde;o,
+cuya inmensidad cruz&oacute; joven y ardiente, vengan a barrer
+sobre la losa de su sepulcro las flores secas de los aromos y el
+polvo de los a&ntilde;os!</p>
+<a name="74"></a>
+<p style="text-align: justify;text-indent:30px;">Pocos eran
+entonces los que conociendo nuestra familia, pudiesen sospechar que
+Mar&iacute;a no era hija de mis padres. Hablaba bien nuestro
+idioma, era amable, viva e inteligente. Cuando mi madre le
+acariciaba la cabeza, al mismo tiempo que mis hermanas y a
+m&iacute;, ninguno hubiera podido adivinar cu&aacute;l era
+all&iacute; la hu&eacute;rfana.</p>
+<a name="75"></a>
+<p style="text-align: justify;text-indent:30px;">Ten&iacute;a nueve
+a&ntilde;os. La cabellera abundante, todav&iacute;a de color
+casta&ntilde;o claro, suelta y jugueteando sobre su cintura fina y
+movible; los ojos parleros; el acento con algo de
+melanc&oacute;lico que no ten&iacute;an nuestras voces; tal era la
+imagen que de ella llev&eacute; cuando part&iacute; de la casa
+paterna: as&iacute; estaba en la ma&ntilde;ana de aquel triste
+d&iacute;a, bajo las enredaderas de las ventanas de mi madre.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_9_" id="I_9_"></a><a href="#I_8_"><img align="right"
+alt="Arriba" border="0" width="13" height="10" hspace="0" vspace=
+"0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href="#I_10_"><img align=
+"right" alt="Abajo" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>- VIII -</h2>
+</div>
+<a name="76"></a>
+<p style="text-align: justify;text-indent:30px;">A prima noche
+llam&oacute; Emma a mi puerta para que fuera a la mesa. Me
+ba&ntilde;&eacute; el rostro para ocultar las huellas de las
+l&aacute;grimas, y me mud&eacute; los vestidos para disculpar mi
+tardanza.</p>
+<a name="77"></a>
+<p style="text-align: justify;text-indent:30px;">No estaba
+Mar&iacute;a en el comedor, y en vano imagin&eacute; que sus
+ocupaciones la hab&iacute;an hecho demorarse m&aacute;s de lo
+acostumbrado. Notando mi padre un asiento desocupado,
+pregunt&oacute; por ella, y Emma la disculp&oacute; diciendo que
+desde esa tarde hab&iacute;a tenido dolor de cabeza y que
+dorm&iacute;a ya. Procur&eacute; no mostrarme impresionado; y
+haciendo todo esfuerzo porque la conversaci&oacute;n fuera amena,
+habl&eacute; con entusiasmo de todas las mejoras que hab&iacute;a
+encontrado en las fincas que acab&aacute;bamos de visitar. Pero
+todo fue in&uacute;til: mi padre estaba m&aacute;s fatigado que yo,
+y se retir&oacute; temprano; Emma y mi madre se levantaron para ir
+a acostar los ni&ntilde;os y ver c&oacute;mo estaba Mar&iacute;a,
+lo cual les agradec&iacute;, sin que me sorprendiera ya ese mismo
+sentimiento de gratitud.</p>
+<a name="78"></a>
+<p style="text-align: justify;text-indent:30px;">Aunque Emma
+volvi&oacute; al comedor, la sobremesa no dur&oacute; largo tiempo.
+Felipe y Elo&iacute;sa, que se hab&iacute;an empe&ntilde;ado en que
+tomara parte en su juego de naipes, acusaron de so&ntilde;olientos
+mis ojos. Aqu&eacute;l hab&iacute;a solicitado in&uacute;tilmente
+de mi madre permiso para acompa&ntilde;arme al d&iacute;a siguiente
+a la monta&ntilde;a, por lo cual se retir&oacute; descontento.</p>
+<a name="79"></a>
+<p style="text-align: justify;text-indent:30px;">Meditando en mi
+cuarto, cre&iacute; adivinar la causa del sufrimiento de
+Mar&iacute;a. Record&eacute; la manera c&oacute;mo yo hab&iacute;a
+salido del sal&oacute;n despu&eacute;s de mi llegada y c&oacute;mo
+la impresi&oacute;n que me hizo el acento confidencial de ella fue
+motivo de que le contestara con la falta de tino propia de quien
+est&aacute; reprimiendo una emoci&oacute;n. Conociendo ya el origen
+de su pena, habr&iacute;a dado mil vidas por obtener un
+perd&oacute;n suyo; pero la duda vino a agravar la turbaci&oacute;n
+de mi esp&iacute;ritu. Dud&eacute; del amor de Mar&iacute;a.
+&iquest;Por qu&eacute;, pensaba yo, se esfuerza mi coraz&oacute;n
+en creerla sometida a este mismo martirio? Consider&eacute;me
+indigno de poseer tanta belleza, tanta inocencia. Ech&eacute;me en
+cara ese orgullo que me hab&iacute;a ofuscado hasta el punto de
+creerme por &eacute;l objeto de su amor, siendo solamente merecedor
+de su cari&ntilde;o de hermana. En mi locura pens&eacute; con menos
+terror, casi con placer, en mi pr&oacute;ximo viaje.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_10_" id="I_10_"></a><a href="#I_9_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_11_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+IX -</h2>
+</div>
+<a name="80"></a>
+<p style="text-align: justify;text-indent:30px;">Levant&eacute;me
+al d&iacute;a siguiente cuando amanec&iacute;a. Los resplandores
+que delineaban hacia el Oriente las c&uacute;spides de la
+cordillera central, doraban en semic&iacute;rculo sobre ella
+algunas nubes ligeras que se desataban las unas de las otras para
+alejarse y desaparecer. Las verdes pampas y selvas del valle se
+ve&iacute;an como al trav&eacute;s de un vidrio azulado, y en medio
+de ellas, algunas caba&ntilde;as blancas, humaredas de los montes
+reci&eacute;n quemados elev&aacute;ndose en espiral, y alguna vez
+las revueltas de un r&iacute;o. La cordillera de Occidente, con sus
+pliegues y senos, semejaba mantos de terciopelo azul oscuro
+suspendidos de sus centros por manos de genios velados por las
+nieblas. Al frente de mi ventana, los rosales y los follajes de los
+&aacute;rboles del huerto parec&iacute;an temer las primeras brisas
+que vendr&iacute;an a derramar el roc&iacute;o que brillaba en sus
+hojas y flores. Todo me pareci&oacute; triste. Tom&eacute; la
+escopeta: hice una se&ntilde;al al cari&ntilde;oso Mayo, que
+sentado sobre las piernas traseras, me miraba fijamente, arrugada
+la frente por la excesiva atenci&oacute;n, aguardando la primera
+orden; y saltando el vallado de piedra, cog&iacute; el camino de la
+monta&ntilde;a. Al internarme, la hall&eacute; fresca y temblorosa
+bajo las caricias de las &uacute;ltimas auras de la noche. Las
+garzas abandonaban sus dormideros, formando en su vuelo
+l&iacute;neas ondulantes que plateaba el sol, como cintas
+abandonadas al capricho del viento. Bandadas numerosas de loros se
+levantaban de los guaduales para dirigirse a los maizales vecinos;
+y el diosted&eacute; saludaba al d&iacute;a con su canto triste y
+mon&oacute;tono desde el coraz&oacute;n de la sierra.</p>
+<a name="81"></a>
+<p style="text-align: justify;text-indent:30px;">Baj&eacute; a la
+vega montuosa del r&iacute;o por el mismo sendero por donde lo
+hab&iacute;a hecho tantas veces seis a&ntilde;os antes. El trueno
+de su raudal se iba aumentando, y poco despu&eacute;s
+descubr&iacute; las corrientes, impetuosas al precipitarse en los
+saltos, convertidas en espumas hervidoras en ellos, cristalinas y
+tersas en los remansos, rodando siempre sobre un lecho de
+pe&ntilde;ascos afelpados de musgos, orlados en la ribera por
+iracales, helechos y ca&ntilde;as de amarillos tallos, plumajes
+sedosos y semilleros de color de p&uacute;rpura.</p>
+<a name="82"></a>
+<p style="text-align: justify;text-indent:30px;">Det&uacute;veme en
+la mitad del puente, formado por el hurac&aacute;n con un cedro
+corpulento, el mismo por donde hab&iacute;a pasado en otro tiempo.
+Floridas par&aacute;sitas colgaban de sus lamas, y campanillas
+azules y tornasoladas bajaban en festones desde mis pies a mecerse
+en las ondas. Una vegetaci&oacute;n exuberante y altiva abovedaba a
+trechos el r&iacute;o, y al trav&eacute;s de ella penetraban
+algunos rayos del sol naciente, como por la techumbre rota de un
+templo indiano abandonado. Mayo aull&oacute; cobarde en la ribera
+que yo acababa de dejar, y a instancias m&iacute;as se
+resolvi&oacute; a pasar por el puente fant&aacute;stico, tomando en
+seguida, antes que yo, el sendero que conduc&iacute;a a la
+posesi&oacute;n del viejo Jos&eacute;, quien esperaba de m&iacute;
+aquel d&iacute;a el pago de su visita de bienvenida.</p>
+<a name="83"></a>
+<p style="text-align: justify;text-indent:30px;">Despu&eacute;s de
+una peque&ntilde;a cuesta pendiente y oscura, y de atravesar a
+saltos por sobre el arbolado seco de los &uacute;ltimos derribos
+del monta&ntilde;&eacute;s, me hall&eacute; en la placeta sembrada
+de legumbres, desde donde divis&eacute; humeando la casita situada
+en medio de las colinas verdes, que yo hab&iacute;a dejado entre
+bosques al parecer indestructibles. Las vacas, hermosas por su
+tama&ntilde;o y color, bramaban a la puerta del corral buscando sus
+becerros. Las aves dom&eacute;sticas alborotaban recibiendo la
+raci&oacute;n matutina; en las palmeras cercanas, que hab&iacute;a
+respetado el hacha de los labradores, se mec&iacute;an las
+orop&eacute;ndolas bulliciosas en sus nidos colgantes, y en medio
+de tan grata algarab&iacute;a, o&iacute;ase a las veces el grito
+agudo del pajarero, que desde su barbacoa y armado de honda,
+espantaba las guacamayas hambrientas que revoloteaban sobre el
+maizal.</p>
+<a name="84"></a>
+<p style="text-align: justify;text-indent:30px;">Los perros del
+antioque&ntilde;o le dieron con sus ladridos aviso de mi llegada.
+Mayo, temeroso de ellos, se me acerc&oacute; moh&iacute;no.
+Jos&eacute; sali&oacute; a recibirme, el hacha en una mano y el
+sombrero en la otra.</p>
+<a name="85"></a>
+<p style="text-align: justify;text-indent:30px;">La peque&ntilde;a
+vivienda denunciaba laboriosidad, econom&iacute;a y limpieza: todo
+era r&uacute;stico, pero estaba c&oacute;modamente dispuesto, y
+cada cosa en su lugar. La sala de la casita, perfectamente barrida,
+poyos de guadua alrededor, cubiertos de esteras de junco y pieles
+de oso, algunas estampas de papel iluminadas, representando santos
+y prendidas con espinas de naranjo a las paredes sin blanquear,
+ten&iacute;a a derecha e izquierda la alcoba de la mujer de
+Jos&eacute; y la de las muchachas. La cocina, formada de
+ca&ntilde;a-menuda y con el techo de hojas de la misma planta,
+estaba separada de la casa por un huertecillo donde el perejil, la
+manzanilla, el poleo y las albahacas mezclaban sus aromas.</p>
+<a name="86"></a>
+<p style="text-align: justify;text-indent:30px;">Las mujeres
+parec&iacute;an vestidas con m&aacute;s esmero que de ordinario.
+Las muchachas, Luc&iacute;a y Tr&aacute;nsito, llevaban enaguas de
+zaraza morada y camisas muy blancas con golas de encaje ribeteadas
+de trencilla negra, bajo las cuales escond&iacute;an parte de sus
+rosarios, y gargantillas de bombillas de vidrio color de
+&oacute;palo. Las trenzas de sus cabellos, gruesas y de color de
+azabache, les jugaban sobre las espaldas, al m&aacute;s leve
+movimiento de los pies desnudos, cuidados e inquietos. Me hablaban
+con suma timidez; y su padre fue quien, notando eso, las
+anim&oacute; dici&eacute;ndoles: &laquo;&iquest;Acaso no es el
+mismo ni&ntilde;o Efra&iacute;n, porque venga del colegio sabio y
+ya mozo?&raquo;. Entonces se hicieron m&aacute;s joviales y
+risue&ntilde;as: nos enlazaban amistosamente los recuerdos de los
+juegos infantiles, poderosos en la imaginaci&oacute;n de los poetas
+y de las mujeres. Con la vejez la fisonom&iacute;a de Jos&eacute;
+hab&iacute;a ganado mucho: aunque no se dejaba la barba, su faz
+ten&iacute;a algo de b&iacute;blico, como casi todas las de los
+ancianos de buenas costumbres del pa&iacute;s donde naci&oacute;:
+una cabellera cana y abundante le sombreaba la tostada y ancha
+frente, y sus sonrisas revelaban tranquilidad de alma. Luisa, su
+mujer, m&aacute;s feliz que &eacute;l en la lucha con los
+a&ntilde;os, conservaba en el vestir algo de la manera
+antioque&ntilde;a, y su constante jovialidad dejaba comprender que
+estaba contenta con su suerte.</p>
+<a name="87"></a>
+<p style="text-align: justify;text-indent:30px;">Jos&eacute; me
+condujo al r&iacute;o, y me habl&oacute; de sus siembras y
+cacer&iacute;as, mientras yo me sumerg&iacute;a en el remanso
+di&aacute;fano desde el cual se lanzaban las aguas formando una
+peque&ntilde;a cascada. A nuestro regreso encontramos servido en la
+&uacute;nica mesa de la casa el provocativo almuerzo. Campeaba el
+ma&iacute;z por todas partes: en la sopa de mote servida en platos
+de loza vidriada y en doradas arepas esparcidas sobre el mantel. El
+&uacute;nico cubierto del menaje estaba cruzado sobre mi plato
+blanco y orillado de azul.</p>
+<a name="88"></a>
+<p style="text-align: justify;text-indent:30px;">Mayo se
+sent&oacute; a mis pies con mirada atenta, pero m&aacute;s humilde
+que de costumbre.</p>
+<a name="89"></a>
+<p style="text-align: justify;text-indent:30px;">Jos&eacute;
+remendaba una atarraya mientras sus hijas, listas pero vergonzosas,
+me serv&iacute;an llenas de cuidado, tratando de adivinarme en los
+ojos lo que pod&iacute;a faltarme. Mucho se hab&iacute;an
+embellecido, y de ni&ntilde;as loquillas que eran se hab&iacute;an
+hecho mujeres oficiosas.</p>
+<a name="90"></a>
+<p style="text-align: justify;text-indent:30px;">Apurado el vaso de
+espesa y espumosa leche, postre de aquel almuerzo patriarcal,
+Jos&eacute; y yo salimos a recorrer el huerto y la roza que estaba
+cogiendo. &Eacute;l qued&oacute; admirado de mis conocimientos
+te&oacute;ricos sobre las siembras, y volvimos a la casa una hora
+despu&eacute;s para despedirme yo de las muchachas y de la
+madre.</p>
+<a name="91"></a>
+<p style="text-align: justify;text-indent:30px;">P&uacute;sele al
+buen viejo en la cintura el cuchillo de monte que le hab&iacute;a
+tra&iacute;do del <em>reino</em>, al cuello de Tr&aacute;nsito y
+Luc&iacute;a, preciosos rosarios y en manos de Luisa un relicario
+que ella hab&iacute;a encargado a mi madre. Tom&eacute; la vuelta
+de la monta&ntilde;a cuando era medio d&iacute;a por filo,
+seg&uacute;n el examen que del sol hizo Jos&eacute;.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_11_" id="I_11_"></a><a href="#I_10_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_12_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+X -</h2>
+</div>
+<a name="92"></a>
+<p style="text-align: justify;text-indent:30px;">A mi regreso, que
+hice lentamente, la imagen de Mar&iacute;a volvi&oacute; a asirse a
+mi memoria. Aquellas soledades, sus bosques silenciosos, sus
+flores, sus aves y sus aguas, &iquest;por qu&eacute; me hablaban de
+ella? &iquest;Qu&eacute; hab&iacute;a all&iacute; de Mar&iacute;a?
+en las sombras h&uacute;medas, en la brisa que mov&iacute;a los
+follajes, en el rumor del r&iacute;o... Era que ve&iacute;a el
+Ed&eacute;n, pero faltaba ella; era que no pod&iacute;a dejar de
+amarla, aunque no me amase. Y aspiraba el perfume del ramo de
+azucenas silvestres que las hijas de Jos&eacute; hab&iacute;an
+formado para m&iacute;, pensando yo que acaso merecer&iacute;an ser
+tocadas por los labios de Mar&iacute;a: as&iacute; se hab&iacute;an
+debilitado en tan pocas horas mis prop&oacute;sitos heroicos de la
+noche.</p>
+<a name="93"></a>
+<p style="text-align: justify;text-indent:30px;">Apenas
+llegu&eacute; a casa, me dirig&iacute; al costurero de mi madre:
+Mar&iacute;a estaba con ella; mis hermanas se hab&iacute;an ido al
+ba&ntilde;o. Despu&eacute;s de contestarme el saludo, Mar&iacute;a
+baj&oacute; los ojos sobre la costura. Mi madre se manifest&oacute;
+regocijada por mi vuelta; pues sobresaltados en casa con la demora,
+hab&iacute;an enviado a buscarme en aquel momento. Hablaba con ella
+ponderando los progresos de Jos&eacute;, y Mayo quitaba con la
+lengua a mis vestidos los cadillos que se les hab&iacute;an
+prendido en las malezas.</p>
+<a name="94"></a>
+<p style="text-align: justify;text-indent:30px;">Levant&oacute;
+Mar&iacute;a otra vez los ojos, fij&aacute;ndolos en el ramo de
+azucenas que ten&iacute;a yo en la mano izquierda, mientras me
+apoyaba con la derecha en la escopeta: cre&iacute; comprender que
+las deseaba, pero un temor indefinible, cierto respeto a mi madre y
+a mis prop&oacute;sitos de por la noche, me impidieron
+ofrec&eacute;rselas. Mas me deleitaba imaginando cu&aacute;n bella
+quedar&iacute;a una de mis peque&ntilde;as azucenas sobre sus
+cabellos de color casta&ntilde;o luciente. Para ella deb&iacute;an
+ser, porque habr&iacute;a recogido durante la ma&ntilde;ana
+azahares y violetas para el florero de mi mesa. Cuando entr&eacute;
+a mi cuarto no vi una flor all&iacute;. Si hubiese encontrado
+enrollada sobre la mesa una v&iacute;bora, no hubiera yo sentido
+emoci&oacute;n igual a la que me ocasion&oacute; la ausencia de las
+flores: su fragancia hab&iacute;a llegado a ser algo del
+esp&iacute;ritu de Mar&iacute;a que vagaba a mi alrededor en las
+horas de estudio, que se mec&iacute;a en las cortinas de mi lecho
+durante la noche... &iexcl;Ah! &iexcl;conque era verdad que no me
+amaba! &iexcl;conque hab&iacute;a podido enga&ntilde;arme tanto mi
+imaginaci&oacute;n visionaria! Y de ese ramo que hab&iacute;a
+tra&iacute;do para ella, &iquest;qu&eacute; pod&iacute;a yo hacer?
+Si otra mujer, bella y seductora, hubiese estado all&iacute; en ese
+momento, en ese instante de resentimiento contra mi orgullo, de
+resentimiento con Mar&iacute;a, a ella lo habr&iacute;a dado a
+condici&oacute;n de que lo mostrase a todos y se embelleciera con
+&eacute;l. Lo llev&eacute; a mis labios como para despedirme por
+&uacute;ltima vez de una ilusi&oacute;n querida, y lo arroj&eacute;
+por la ventana.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_12_" id="I_12_"></a><a href="#I_11_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_13_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XI -</h2>
+</div>
+<a name="95"></a>
+<p style="text-align: justify;text-indent:30px;">Hice esfuerzos
+para mostrarme jovial durante el resto del d&iacute;a. En la mesa
+habl&eacute; con entusiasmo de las mujeres hermosas de
+Bogot&aacute;, y ponder&eacute; intencionalmente las gracias y el
+ingenio de P***. Mi padre se complac&iacute;a oy&eacute;ndome:
+Elo&iacute;sa habr&iacute;a querido que la sobremesa durase hasta
+la noche. Mar&iacute;a estuvo callada; pero me pareci&oacute; que
+sus mejillas palidec&iacute;an algunas veces, y que su primitivo
+color no hab&iacute;a vuelto a ellas, as&iacute; como el de las
+rosas que durante la noche han engalanado un fest&iacute;n.</p>
+<a name="96"></a>
+<p style="text-align: justify;text-indent:30px;">Hacia la
+&uacute;ltima parte de la conversaci&oacute;n, Mar&iacute;a
+hab&iacute;a fingido jugar con la cabellera de Juan, hermano
+m&iacute;o de tres a&ntilde;os de edad a quien ella mimaba.
+Soport&oacute; hasta el fin; mas tan luego como me puse en pie, se
+dirigi&oacute; ella con el ni&ntilde;o al jard&iacute;n.</p>
+<a name="97"></a>
+<p style="text-align: justify;text-indent:30px;">Todo el resto de
+la tarde y en la prima noche fue necesario ayudar a mi padre en sus
+trabajos de escritorio.</p>
+<a name="98"></a>
+<p style="text-align: justify;text-indent:30px;">A las ocho, y
+luego que las mujeres hab&iacute;an ya rezado sus oraciones de
+costumbre, nos llamaron al comedor. Al sentarnos a la mesa,
+qued&eacute; sorprendido al ver una de las azucenas en la cabeza de
+Mar&iacute;a. Hab&iacute;a en su rostro bell&iacute;simo tal aire
+de noble, inocente y dulce resignaci&oacute;n, que como magnetizado
+por algo desconocido hasta entonces para m&iacute; en ella, no me
+era posible dejar de mirarla.</p>
+<a name="99"></a>
+<p style="text-align: justify;text-indent:30px;">Ni&ntilde;a
+cari&ntilde;osa y risue&ntilde;a, mujer tan pura y seductora como
+aqu&eacute;llas con quienes yo hab&iacute;a so&ntilde;ado,
+as&iacute; la conoc&iacute;a; pero resignada ante mi desd&eacute;n,
+era nueva para m&iacute;. Divinizada por la resignaci&oacute;n, me
+sent&iacute;a indigno de fijar una mirada sobre su frente.</p>
+<a name="100"></a>
+<p style="text-align: justify;text-indent:30px;">Respond&iacute;
+mal a unas preguntas que se me hicieron sobre Jos&eacute; y su
+familia. A mi padre no se le pod&iacute;a ocultar mi
+turbaci&oacute;n; y dirigi&eacute;ndose a Mar&iacute;a, le dijo
+sonriendo:</p>
+<a name="101"></a>
+<p style="text-align: justify;text-indent:30px;">-Hermosa azucena
+tienes en los cabellos: yo no he visto de &eacute;sas en el
+jard&iacute;n.</p>
+<a name="102"></a>
+<p style="text-align: justify;text-indent:30px;">Mar&iacute;a,
+tratando de disimular su desconcierto, respondi&oacute; con voz
+casi imperceptible:</p>
+<a name="103"></a>
+<p style="text-align: justify;text-indent:30px;">-Es que de estas
+azucenas s&oacute;lo hay en la monta&ntilde;a.</p>
+<a name="104"></a>
+<p style="text-align: justify;text-indent:30px;">Sorprend&iacute;
+en aquel momento una sonrisa bondadosa en los labios de Emma.</p>
+<a name="105"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Y
+qui&eacute;n las ha enviado? -pregunt&oacute; mi padre.</p>
+<a name="106"></a>
+<p style="text-align: justify;text-indent:30px;">La
+turbaci&oacute;n de Mar&iacute;a era ya notable. Yo la miraba; y
+ella debi&oacute; de hallar algo nuevo y animador en mis ojos, pues
+respondi&oacute; con acento m&aacute;s firme:</p>
+<a name="107"></a>
+<p style="text-align: justify;text-indent:30px;">-Efra&iacute;n
+bot&oacute; unas al huerto; y nos pareci&oacute; que siendo tan
+raras, era una l&aacute;stima que se perdiesen: &eacute;sta es una
+de ellas.</p>
+<a name="108"></a>
+<p style="text-align: justify;text-indent:30px;">-Mar&iacute;a -le
+dije yo-, si hubiese sabido que eran tan estimables esas flores,
+las habr&iacute;a guardado... para vosotras; pero me han parecido
+menos bellas que las que se ponen diariamente en el florero de mi
+mesa.</p>
+<a name="109"></a>
+<p style="text-align: justify;text-indent:30px;">Comprendi&oacute;
+ella la causa de mi resentimiento, y me lo dijo tan claramente una
+mirada suya, que tem&iacute; se oyeran las palpitaciones de mi
+coraz&oacute;n.</p>
+<a name="110"></a>
+<p style="text-align: justify;text-indent:30px;">Aquella noche, a
+la hora de retirarse la familia del sal&oacute;n, Mar&iacute;a
+estaba casualmente sentada cerca de m&iacute;. Despu&eacute;s de
+haber vacilado mucho, le dije al fin con voz que denunciaba mi
+emoci&oacute;n: &laquo;Mar&iacute;a, eran para ti: pero no
+encontr&eacute; las tuyas&raquo;.</p>
+<a name="111"></a>
+<p style="text-align: justify;text-indent:30px;">Ella
+balbuc&iacute;a alguna disculpa cuando tropezando en el sof&aacute;
+mi mano con la suya, se la retuve por un movimiento ajeno de mi
+voluntad. Dej&oacute; de hablar. Sus ojos me miraron asombrados y
+huyeron de los m&iacute;os. Pas&oacute;se por la frente con
+angustia la mano que ten&iacute;a libre, y apoy&oacute; en ella la
+cabeza, hundiendo el brazo desnudo en el almohad&oacute;n
+inmediato. Haciendo al fin un esfuerzo para deshacer ese doble lazo
+de la materia y del alma que en tal momento nos un&iacute;a,
+p&uacute;sose en pie; y como concluyendo una reflexi&oacute;n
+empezada, me dijo tan quedo que apenas pude o&iacute;rla:
+&laquo;entonces... yo recoger&eacute; todos los d&iacute;as las
+flores m&aacute;s lindas&raquo;; y desapareci&oacute;.</p>
+<a name="112"></a>
+<p style="text-align: justify;text-indent:30px;">Las almas como la
+de Mar&iacute;a ignoran el lenguaje mundano del amor; pero se
+doblegan estremeci&eacute;ndose a la primera caricia de
+aqu&eacute;l a quien aman, como la adormidera de los bosques bajo
+el ala de los vientos.</p>
+<a name="113"></a>
+<p style="text-align: justify;text-indent:30px;">Acababa de
+confesar mi amor a Mar&iacute;a; ella me hab&iacute;a animado a
+confes&aacute;rselo, humill&aacute;ndose como una esclava a recoger
+aquellas flores. Me repet&iacute; con deleite sus &uacute;ltimas
+palabras; su voz susurraba a&uacute;n en mi o&iacute;do:
+&laquo;entonces, yo recoger&eacute; todos los d&iacute;as las
+flores m&aacute;s lindas&raquo;.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_13_" id="I_13_"></a><a href="#I_12_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_14_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XII -</h2>
+</div>
+<a name="114"></a>
+<p style="text-align: justify;text-indent:30px;">La luna, que
+acababa de elevarse llena y grande bajo un cielo profundo sobre las
+crestas alt&iacute;simas de los montes, iluminaba las faldas
+selvosas, blanqueadas a trechos por las copas de los yarumos,
+argentando las espumas de los torrentes y difundiendo su claridad
+melanc&oacute;lica hasta el fondo del valle. Las plantas exhalaban
+sus m&aacute;s suaves y misteriosos aromas. Aquel silencio,
+interrumpido solamente por el rumor del r&iacute;o, era m&aacute;s
+grato que nunca a mi alma.</p>
+<a name="115"></a>
+<p style="text-align: justify;text-indent:30px;">Apoyado de codos
+sobre el marco de mi ventana, me imaginaba verla en medio de los
+rosales entre los cuales la hab&iacute;a sorprendido en aquella
+ma&ntilde;ana primera: estaba all&iacute; recogiendo el ramo de
+azucenas, sacrificando su orgullo a su amor. Era yo quien iba a
+turbar en adelante el sue&ntilde;o infantil de su coraz&oacute;n:
+podr&iacute;a ya hablarle de mi amor, hacerla el objeto de mi vida.
+&iexcl;Ma&ntilde;ana! &iexcl;m&aacute;gica palabra la noche en que
+se nos ha dicho que somos amados! Sus miradas, al encontrarse con
+las m&iacute;as, no tendr&iacute;an ya nada que ocultarme; ella se
+embellecer&iacute;a para felicidad y orgullo m&iacute;o.</p>
+<a name="116"></a>
+<p style="text-align: justify;text-indent:30px;">Nunca las auroras
+de julio en el Cauca fueron tan bellas como Mar&iacute;a cuando se
+me present&oacute; al d&iacute;a siguiente, momentos despu&eacute;s
+de salir del ba&ntilde;o, la cabellera de carey sombreado suelta y
+a medio rizar, las mejillas de color de rosa suavemente
+desvanecido, pero en algunos momentos avivado por el rubor; y
+jugando en sus labios cari&ntilde;osos aquella sonrisa
+cast&iacute;sima que revela en las mujeres como Mar&iacute;a una
+felicidad que no les es posible ocultar. Sus miradas, ya m&aacute;s
+dulces que brillantes, mostraban que su sue&ntilde;o no era tan
+apacible como hab&iacute;a solido. Al acerc&aacute;rmele
+not&eacute; en su frente una contracci&oacute;n graciosa y apenas
+perceptible, especie de fingida severidad de que us&oacute; muchas
+veces para conmigo cuando despu&eacute;s de deslumbrarme con toda
+la luz de su belleza, impon&iacute;a silencio a mis labios,
+pr&oacute;ximos a repetir lo que ella tanto sab&iacute;a.</p>
+<a name="117"></a>
+<p style="text-align: justify;text-indent:30px;">Era ya para
+m&iacute; una necesidad tenerla constantemente a mi lado; no perder
+un solo instante de su existencia abandonada a mi amor; y dichoso
+con lo que pose&iacute;a y &aacute;vido a&uacute;n de dicha,
+trat&eacute; de hacer un para&iacute;so de la casa paterna.
+Habl&eacute; a Mar&iacute;a y a mi hermana del deseo que
+hab&iacute;an manifestado de hacer algunos estudios elementales
+bajo mi direcci&oacute;n: ellas volvieron a entusiasmarse con el
+proyecto, y se decidi&oacute; que desde ese mismo d&iacute;a se
+dar&iacute;a principio.</p>
+<a name="118"></a>
+<p style="text-align: justify;text-indent:30px;">Convirtieron uno
+de los &aacute;ngulos del sal&oacute;n en gabinete de estudio;
+desclavaron algunos mapas de mi cuarto; desempolvaron el globo
+geogr&aacute;fico que en el escritorio de mi padre hab&iacute;a
+permanecido hasta entonces ignorado; fueron despejadas de adornos
+dos consolas para hacer de ellas mesas de estudio. Mi madre
+sonre&iacute;a al presenciar todo aquel desarreglo que nuestro
+proyecto aparejaba.</p>
+<a name="119"></a>
+<p style="text-align: justify;text-indent:30px;">Nos
+reun&iacute;amos todos los d&iacute;as dos horas, durante las
+cuales les explicaba yo alg&uacute;n cap&iacute;tulo de
+geograf&iacute;a, le&iacute;amos algo de historia universal, y las
+m&aacute;s veces muchas p&aacute;ginas del <em>Genio del
+cristianismo</em>. Entonces pude valuar toda la inteligencia de
+Mar&iacute;a: mis frases quedaban grabadas indeleblemente en su
+memoria, y su comprensi&oacute;n se adelantaba casi siempre con
+triunfo infantil a mis explicaciones.</p>
+<a name="120"></a>
+<p style="text-align: justify;text-indent:30px;">Emma hab&iacute;a
+sorprendido el secreto y se complac&iacute;a en nuestra inocente
+felicidad. &iquest;C&oacute;mo ocultarle yo en aquellas frecuentes
+conferencias lo que en mi coraz&oacute;n pasaba? Ella debi&oacute;
+de observar mi mirada inm&oacute;vil sobre el rostro hechicero de
+su compa&ntilde;era mientras daba &eacute;sta una
+explicaci&oacute;n pedida. Hab&iacute;a visto ella temblarle la
+mano a Mar&iacute;a si yo se la colocaba sobre alg&uacute;n punto
+buscado in&uacute;tilmente en el mapa. Y siempre que sentado cerca
+de la mesa, ellas en pie a uno y otro lado de mi asiento, se
+inclinaba Mar&iacute;a para ver mejor algo que estaba en mi libro o
+en las cartas, su aliento, rozando mis cabellos, sus trenzas, al
+rodar de sus hombros, turbaron mis explicaciones, y Emma pudo verla
+enderezarse pudorosa.</p>
+<a name="121"></a>
+<p style="text-align: justify;text-indent:30px;">En ocasiones,
+quehaceres dom&eacute;sticos llamaban la atenci&oacute;n a mis
+disc&iacute;pulas, y mi hermana tomaba siempre a su cargo ir a
+desempe&ntilde;arlos para volver un rato despu&eacute;s a
+reun&iacute;rsenos. Entonces mi coraz&oacute;n palpitaba
+fuertemente. Mar&iacute;a con la frente infantilmente grave y los
+labios casi risue&ntilde;os, abandonaba a las m&iacute;as alguna de
+sus manos aristocr&aacute;ticas sembradas de hoyuelos, hechas para
+oprimir frentes como la de Byron; y su acento, sin dejar de tener
+aquella m&uacute;sica que le era peculiar, se hac&iacute;a lento y
+profundo al pronunciar palabras suavemente articuladas que en vano
+probar&iacute;a yo a recordar hoy; porque no he vuelto a
+o&iacute;rlas, porque pronunciadas por otros labios no son las
+mismas, y escritas en estas p&aacute;ginas aparecer&iacute;an sin
+sentido. Pertenecen a otro idioma, del cual hace muchos a&ntilde;os
+no viene a mi memoria ni una frase.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_14_" id="I_14_"></a><a href="#I_13_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_15_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XIII -</h2>
+</div>
+<a name="122"></a>
+<p style="text-align: justify;text-indent:30px;">Las p&aacute;ginas
+de Chateaubriand iban lentamente dando tintas a la
+imaginaci&oacute;n de Mar&iacute;a. Tan cristiana y llena de fe, se
+regocijaba al encontrar bellezas por ella presentidas en el culto
+cat&oacute;lico. Su alma tomaba de la paleta que yo le
+ofrec&iacute;a los m&aacute;s preciosos colores para hermosearlo
+todo; y el fuego po&eacute;tico, don del Cielo que hace admirables
+a los hombres que lo poseen y diviniza a las mujeres que a su pesar
+lo revelan, daba a su semblante encantos desconocidos para
+m&iacute; hasta entonces en el rostro humano. Los pensamientos del
+poeta, acogidos en el alma de aquella mujer tan seductora en medio
+de su inocencia, volv&iacute;an a m&iacute; como eco de una
+armon&iacute;a lejana y conocida que torna a conmover el
+coraz&oacute;n.</p>
+<a name="123"></a>
+<p style="text-align: justify;text-indent:30px;">Una tarde, tarde
+como las de mi pa&iacute;s, engalanada con nubes de color de
+violeta y lampos de oro p&aacute;lido, bella como Mar&iacute;a,
+bella y transitoria como fue &eacute;sta para m&iacute;, ella, mi
+hermana y yo, sentados sobre la ancha piedra de la pendiente, desde
+donde ve&iacute;amos a la derecha en la honda vega rodar las
+corrientes bulliciosas del r&iacute;o, y teniendo a nuestros pies
+el valle majestuoso y callado, le&iacute;a yo el episodio de Atala,
+y las dos, admirables en su inmovilidad y abandono, o&iacute;an
+brotar de mis labios toda aquella melancol&iacute;a aglomerada por
+el poeta para &laquo;hacer llorar al mundo&raquo;. Mi hermana,
+apoyado el brazo derecho en uno de mis hombros, la cabeza casi
+unida a la m&iacute;a, segu&iacute;a con los ojos las l&iacute;neas
+que yo iba leyendo. Mar&iacute;a, medio arrodillada cerca de
+m&iacute;, no separaba de mi rostro sus miradas h&uacute;medas
+ya.</p>
+<a name="124"></a>
+<p style="text-align: justify;text-indent:30px;">El sol se
+hab&iacute;a ocultado cuando con voz alterada le&iacute; las
+&uacute;ltimas p&aacute;ginas del poema. La cabeza p&aacute;lida de
+Emma descansaba sobre mi hombro. Mar&iacute;a se ocultaba el rostro
+con entrambas manos. Luego que le&iacute; aquella desgarradora
+despedida de Chactas sobre el sepulcro de su amada, despedida que
+tantas veces ha arrancado un sollozo a mi pecho:
+&laquo;&iexcl;Duerme en paz en extranjera tierra, joven
+desventurada! En recompensa de tu amor, de tu destierro y de tu
+muerte, quedas abandonada hasta del mismo Chactas&raquo;,
+Mar&iacute;a, dejando de o&iacute;r mi voz, descubri&oacute; la
+faz, y por ella rodaban gruesas l&aacute;grimas. Era tan bella como
+la creaci&oacute;n del poeta, y yo la amaba con el amor que
+&eacute;l imagin&oacute;. Nos dirigimos en silencio y lentamente
+hasta la casa. &iexcl;Ay! mi alma y la de Mar&iacute;a no
+s&oacute;lo estaban conmovidas por aquella lectura, estaban
+abrumadas por el presentimiento.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_15_" id="I_15_"></a><a href="#I_14_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_16_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XIV -</h2>
+</div>
+<a name="125"></a>
+<p style="text-align: justify;text-indent:30px;">Pasados tres
+d&iacute;as, al bajar una tarde de la monta&ntilde;a, me
+pareci&oacute; notar alg&uacute;n sobresalto en los semblantes de
+los criados con quienes tropec&eacute; en los corredores
+interiores. Mi hermana me refiri&oacute; que Mar&iacute;a
+hab&iacute;a sufrido un ataque nervioso; y al agregar que estaba
+a&uacute;n sin sentido, procur&oacute; calmar cuanto le fue posible
+mi dolorosa ansiedad.</p>
+<a name="126"></a>
+<p style="text-align: justify;text-indent:30px;">Olvidado de toda
+precauci&oacute;n, entr&eacute; a la alcoba donde estaba
+Mar&iacute;a, y dominando el frenes&iacute; que me hubiera hecho
+estrecharla contra mi coraz&oacute;n para volverla a la vida, me
+acerqu&eacute; desconcertado a su lecho. A los pies de &eacute;ste
+se hallaba sentado mi padre: fij&oacute; en m&iacute; una de sus
+miradas intensas, y volvi&eacute;ndola despu&eacute;s sobre
+Mar&iacute;a, parec&iacute;a quererme hacer una reconvenci&oacute;n
+al mostr&aacute;rmela. Mi madre estaba all&iacute;; pero no
+levant&oacute; la vista para buscarme, porque, sabedora de mi amor,
+me compadec&iacute;a como sabe compadecer una buena madre en la
+mujer amada por su hijo, a su hijo mismo.</p>
+<a name="127"></a>
+<p style="text-align: justify;text-indent:30px;">Permanec&iacute;
+inm&oacute;vil contempl&aacute;ndola, sin atreverme a averiguar
+cu&aacute;l era su mal. Estaba como dormida: su rostro, cubierto de
+palidez mortal, se ve&iacute;a medio oculto por la cabellera
+descompuesta, en la cual se descubr&iacute;an estrujadas las flores
+que yo le hab&iacute;a dado en la ma&ntilde;ana: la frente
+contra&iacute;da revelaba un padecimiento insoportable, y un ligero
+sudor le humedec&iacute;a las sienes: de los ojos cerrados
+hab&iacute;an tratado de brotar l&aacute;grimas que brillaban
+detenidas en las pesta&ntilde;as.</p>
+<a name="128"></a>
+<p style="text-align: justify;text-indent:30px;">Comprendiendo mi
+padre todo mi sufrimiento, se puso en pie para retirarse; mas antes
+de salir, se acerc&oacute; al lecho, y tomando el pulso a
+Mar&iacute;a, dijo:</p>
+<a name="129"></a>
+<p style="text-align: justify;text-indent:30px;">-Todo ha pasado.
+&iexcl;Pobre ni&ntilde;a! Es exactamente el mismo mal que
+padeci&oacute; su madre.</p>
+<a name="130"></a>
+<p style="text-align: justify;text-indent:30px;">El pecho de
+Mar&iacute;a se elev&oacute; lentamente como para formar un
+sollozo, y al volver a su natural estado, exhal&oacute; s&oacute;lo
+un suspiro. Salido que hubo mi padre, coloqu&eacute;me a la
+cabecera del lecho, y olvid&aacute;ndome de mi madre y de Emma, que
+permanec&iacute;an silenciosas, tom&eacute; de sobre el
+almohad&oacute;n una de las manos de Mar&iacute;a, y la
+ba&ntilde;&eacute; en el torrente de mis l&aacute;grimas hasta
+entonces contenido. Med&iacute;a toda mi desgracia: era el mismo
+mal de su madre, que hab&iacute;a muerto muy joven atacada de una
+epilepsia incurable. Esta idea se adue&ntilde;&oacute; de todo mi
+ser para quebrantarlo.</p>
+<a name="131"></a>
+<p style="text-align: justify;text-indent:30px;">Sent&iacute;
+alg&uacute;n movimiento en esa mano inerte, a la que mi aliento no
+pod&iacute;a volver el calor. Mar&iacute;a empezaba ya a respirar
+con m&aacute;s libertad, y sus labios parec&iacute;an esforzarse en
+pronunciar alguna palabra. Movi&oacute; la cabeza de un lado a
+otro, cual si tratara de deshacerse de un peso abrumador. Pasado un
+momento de reposo, balbuci&oacute; palabras ininteligibles, pero al
+fin se percibi&oacute; entre ellas claramente mi nombre. En pie yo,
+devor&aacute;ndola mis miradas, tal vez oprim&iacute; demasiado
+entre mis manos las suyas, quiz&aacute; mis labios la llamaron.
+Abri&oacute; lentamente los ojos, como heridos por una luz intensa,
+y los fij&oacute; en m&iacute;, haciendo esfuerzo para reconocerme.
+Medio incorpor&aacute;ndose un instante despu&eacute;s,
+&laquo;&iquest;qu&eacute; es?&raquo;, me dijo apart&aacute;ndome;
+&laquo;&iquest;qu&eacute; me ha sucedido?&raquo;, continu&oacute;,
+dirigi&eacute;ndose a mi madre. Tratamos de tranquilizarla, y con
+un acento en que hab&iacute;a algo de reconvenci&oacute;n, que por
+entonces no pude explicarme, agreg&oacute;: &laquo;&iquest;ya ves?
+yo lo tem&iacute;a&raquo;.</p>
+<a name="132"></a>
+<p style="text-align: justify;text-indent:30px;">Qued&oacute;,
+despu&eacute;s del acceso, adolorida y profundamente triste.
+Volv&iacute; por la noche a verla, cuando la etiqueta establecida
+en tales casos por mi padre lo permiti&oacute;. Al despedirme de
+ella, reteni&eacute;ndome un instante la mano, &laquo;hasta
+ma&ntilde;ana&raquo;, me dijo, y acentu&oacute; esta &uacute;ltima
+palabra como sol&iacute;a hacerlo siempre que interrumpida nuestra
+conversaci&oacute;n en alguna velada, quedaba deseando el
+d&iacute;a siguiente para que la concluy&eacute;semos.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_16_" id="I_16_"></a><a href="#I_15_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_17_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XV -</h2>
+</div>
+<a name="133"></a>
+<p style="text-align: justify;text-indent:30px;">Cuando sal&iacute;
+al corredor que conduc&iacute;a a mi cuarto, un cierzo impetuoso
+columpiaba los sauces del patio; y al acercarme al huerto, lo
+o&iacute; rasgarse en los sotos de naranjos, de donde se lanzaban
+las aves asustadas. Rel&aacute;mpagos d&eacute;biles, semejantes al
+reflejo instant&aacute;neo de un broquel herido por el resplandor
+de una hoguera, parec&iacute;an querer iluminar el fondo tenebroso
+del valle.</p>
+<a name="134"></a>
+<p style="text-align: justify;text-indent:30px;">Recostado en una
+de las columnas del corredor, sin sentir la lluvia que me azotaba
+las sienes, pensaba en la enfermedad de Mar&iacute;a, sobre la cual
+hab&iacute;a pronunciado mi padre tan terribles palabras.
+&iexcl;Mis ojos quer&iacute;an volver a verla como en las noches
+silenciosas y serenas que acaso no volver&iacute;an ya
+m&aacute;s!</p>
+<a name="135"></a>
+<p style="text-align: justify;text-indent:30px;">No s&eacute;
+cu&aacute;nto tiempo hab&iacute;a pasado, cuando algo como el ala
+vibrante de un ave vino a rozar mi frente. Mir&eacute; hacia los
+bosques inmediatos para seguirla: era un ave negra.</p>
+<a name="136"></a>
+<p style="text-align: justify;text-indent:30px;">Mi cuarto estaba
+fr&iacute;o; las rosas de la ventana temblaban como si se temiesen
+abandonadas a los rigores del tempestuoso viento: el florero
+conten&iacute;a ya marchitos y desmayados los lirios que en la
+ma&ntilde;ana hab&iacute;a colocado en &eacute;l Mar&iacute;a. En
+esto una r&aacute;faga apag&oacute; de s&uacute;bito la
+l&aacute;mpara; y un trueno dej&oacute; o&iacute;r por largo rato
+su creciente retumbo, como si fuese el de un carro gigante
+despe&ntilde;ado de las cumbres rocallosas de la sierra.</p>
+<a name="137"></a>
+<p style="text-align: justify;text-indent:30px;">En medio de
+aquella naturaleza sollozante, mi alma ten&iacute;a una triste
+serenidad.</p>
+<a name="138"></a>
+<p style="text-align: justify;text-indent:30px;">Acababa de dar las
+doce el reloj del sal&oacute;n. Sent&iacute; pasos cerca de mi
+puerta y muy luego la voz de mi padre que me llamaba.
+&laquo;Lev&aacute;ntate&raquo;, me dijo tan pronto como le
+respond&iacute;; &laquo;Mar&iacute;a sigue mal&raquo;.</p>
+<a name="139"></a>
+<p style="text-align: justify;text-indent:30px;">El acceso
+hab&iacute;a repetido. Despu&eacute;s de un cuarto de hora
+hall&aacute;bame apercibido para marchar. Mi padre me hac&iacute;a
+las &uacute;ltimas indicaciones sobre los s&iacute;ntomas de la
+enfermedad, mientras el negrito Juan &Aacute;ngel aquietaba mi
+caballo retinto, impaciente y asustadizo. Mont&eacute;; sus cascos
+herrados crujieron sobre el empedrado, y un instante despu&eacute;s
+bajaba yo hacia las llanuras del valle buscando el sendero a la luz
+de algunos rel&aacute;mpagos l&iacute;vidos. Iba en solicitud del
+doctor Mayn, que pasaba a la saz&oacute;n una temporada de campo a
+tres leguas de nuestra hacienda.</p>
+<a name="140"></a>
+<p style="text-align: justify;text-indent:30px;">La imagen de
+Mar&iacute;a tal como la hab&iacute;a visto en el lecho aquella
+tarde, al decirme ese &laquo;hasta ma&ntilde;ana&raquo;, que tal
+vez no llegar&iacute;a, iba conmigo, y avivando mi impaciencia me
+hac&iacute;a medir incesantemente la distancia que me separaba del
+t&eacute;rmino del viaje; impaciencia que la velocidad del caballo
+no era bastante a moderar,</p>
+<a name="141"></a>
+<p style="text-align: justify;text-indent:30px;">Las llanuras
+empezaban a desaparecer, huyendo en sentido contrario a mi carrera,
+semejantes a mantos inmensos arrollados por el hurac&aacute;n. Los
+bosques que m&aacute;s cercanos cre&iacute;a, parec&iacute;an
+alejarse cuanto avanzaba hacia ellos. S&oacute;lo alg&uacute;n
+gemido del viento entre los higuerones y chiminangos
+sombr&iacute;os, s&oacute;lo el resuello fatigoso del caballo y el
+choque de sus cascos en los pedernales que chispeaban,
+interrump&iacute;an el silencio de la noche.</p>
+<a name="142"></a>
+<p style="text-align: justify;text-indent:30px;">Algunas
+caba&ntilde;as de Santa Elena quedaron a mi derecha, y poco
+despu&eacute;s dej&eacute; de o&iacute;r los ladridos de sus
+perros. Vacadas dormidas sobre el camino empezaban a hacerme
+moderar el paso.</p>
+<a name="143"></a>
+<p style="text-align: justify;text-indent:30px;">La hermosa casa de
+los se&ntilde;ores de M***, con su capilla blanca y sus bosques de
+ceibas, se divisaba en lejan&iacute;a a los primeros rayos de la
+luna naciente, cual castillo cuyas torres y techumbres hubiese
+desmoronado el tiempo.</p>
+<a name="144"></a>
+<p style="text-align: justify;text-indent:30px;">El Amaime bajaba
+crecido con las lluvias de la noche, y su estruendo me lo
+anunci&oacute; mucho antes de que llegase yo a la orilla. A la luz
+de la luna, que atravesando los follajes de las riberas iba a
+platear las ondas, pude ver cu&aacute;nto hab&iacute;a aumentado su
+raudal. Pero no era posible esperar: hab&iacute;a hecho dos leguas
+en una hora, y a&uacute;n era poco. Puse las espuelas en los ijares
+del caballo, que con las orejas tendidas hacia el fondo del
+r&iacute;o y resoplando sordamente, parec&iacute;a calcular la
+impetuosidad de las aguas que se azotaban a sus pies:
+sumergi&oacute; en ellas las manos, y como sobrecogido por un
+terror invencible, retrocedi&oacute; veloz girando sobre las patas.
+Le acarici&eacute; el cuello y las crines humedecidas y lo
+aguijone&eacute; de nuevo para que se lanzase al r&iacute;o;
+entonces levant&oacute; las manos impacientado, pidiendo al mismo
+tiempo toda la rienda, que le abandon&eacute;, temeroso de haber
+errado el botadero de las crecientes. &Eacute;l subi&oacute; por la
+ribera unas veinte varas, tomando la ladera de un pe&ntilde;asco;
+acerc&oacute; la nariz a las espumas, y levant&aacute;ndola en
+seguida, se precipit&oacute; en la corriente. El agua lo
+cubri&oacute; casi todo, lleg&aacute;ndome hasta las rodillas. Las
+olas se encresparon poco despu&eacute;s alrededor de mi cintura.
+Con una mano le palmeaba el cuello al animal, &uacute;nica parte
+visible ya de su cuerpo, mientras con la otra trataba de hacerle
+describir m&aacute;s curva hacia arriba la l&iacute;nea de corte,
+porque de otro modo, perdida la parte baja de la ladera, era
+inaccesible por su altura y la fuerza de las aguas, que columpiaban
+guaduales desgajados. Hab&iacute;a pasado el peligro. Me
+ape&eacute; para examinar las cinchas, de las cuales se
+hab&iacute;a reventado una. El noble bruto se sacudi&oacute;, y un
+instante despu&eacute;s continu&eacute; la marcha.</p>
+<a name="145"></a>
+<p style="text-align: justify;text-indent:30px;">Luego que anduve
+un cuarto de legua, atraves&eacute; las ondas del Nima, humildes,
+di&aacute;fanas y tersas, que rodaban iluminadas hasta perderse en
+las sombras de bosques silenciosos. Dej&eacute; a la izquierda la
+pampa de Santa R., cuya casa, en medio de arboledas de ceibas y
+bajo el grupo de palmeras que elevan los follajes sobre su techo,
+semeja en las noches de luna la tienda de un rey oriental colgada
+de los &aacute;rboles de un oasis.</p>
+<a name="146"></a>
+<p style="text-align: justify;text-indent:30px;">Eran las dos de la
+madrugada cuando, despu&eacute;s de atravesar la villa de P***, me
+desmont&eacute; a la puerta de la casa en que viv&iacute;a el
+m&eacute;dico.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_17_" id="I_17_"></a><a href="#I_16_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_18_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XVI -</h2>
+</div>
+<a name="147"></a>
+<p style="text-align: justify;text-indent:30px;">En la tarde del
+mismo d&iacute;a se despidi&oacute; de nosotros el doctor,
+despu&eacute;s de dejar casi completamente restablecida a
+Mar&iacute;a y de haberle prescrito un r&eacute;gimen para evitar
+la repetici&oacute;n del acceso, y prometi&oacute; visitar a la
+enferma con frecuencia. Yo sent&iacute;a un alivio indecible al
+o&iacute;rle asegurar que no hab&iacute;a peligro alguno, y por
+&eacute;l, doble cari&ntilde;o del que hasta entonces le
+hab&iacute;a profesado, solamente porque tan pronta
+reposici&oacute;n pronosticaba a Mar&iacute;a. Entr&eacute; a la
+habitaci&oacute;n de &eacute;sta, luego que el m&eacute;dico y mi
+padre, que iba a acompa&ntilde;arlo en una legua de camino, se
+pusieron en marcha. Estaba acabando de trenzarse los cabellos,
+vi&eacute;ndose en un espejo que mi hermana sosten&iacute;a sobre
+los almohadones. Apartando ruborizada el mueble, me dijo:</p>
+<a name="148"></a>
+<p style="text-align: justify;text-indent:30px;">-&Eacute;stas no
+son ocupaciones de enferma, &iquest;no es verdad? pero ya estoy
+buena. Espero no volver a ocasionarte un viaje tan peligroso como
+el de anoche.</p>
+<a name="149"></a>
+<p style="text-align: justify;text-indent:30px;">-En ese viaje no
+ha habido peligros -le respond&iacute;.</p>
+<a name="150"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;El
+r&iacute;o, s&iacute;, el r&iacute;o! yo pens&eacute; en eso y en
+tantas cosas que pod&iacute;an sucederte por causa m&iacute;a.</p>
+<a name="151"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Un viaje
+de tres leguas? &iquest;Esto llamas...?</p>
+<a name="152"></a>
+<p style="text-align: justify;text-indent:30px;">-Ese viaje en que
+has podido ahogarte, seg&uacute;n refiri&oacute; aqu&iacute; el
+doctor, tan sorprendido, que a&uacute;n no me hab&iacute;a pulsado
+y ya hablaba de eso. T&uacute; y &eacute;l al regreso hab&eacute;is
+tenido que aguardar dos horas para que bajase el r&iacute;o.</p>
+<a name="153"></a>
+<p style="text-align: justify;text-indent:30px;">-El doctor a
+caballo es una maula; y su mula pacienzuda no es lo mismo que un
+buen caballo.</p>
+<a name="154"></a>
+<p style="text-align: justify;text-indent:30px;">-El hombre que
+vive en la casita del paso -me interrumpi&oacute; Mar&iacute;a-, al
+reconocer esta ma&ntilde;ana tu caballo negro, se admir&oacute; no
+se hubiese ahogado el jinete que anoche se bot&oacute; al
+r&iacute;o a tiempo que &eacute;l le gritaba que no hab&iacute;a
+vado. &iexcl;Ay! no, no; yo no quiero volver a enfermarme.
+&iquest;No te ha dicho el doctor que no tendr&eacute; ya
+novedad?</p>
+<a name="155"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute; -le
+respond&iacute;-; y me ha prometido no dejar pasar dos d&iacute;as
+seguidos en estos quince sin venir a verte.</p>
+<a name="156"></a>
+<p style="text-align: justify;text-indent:30px;">-Entonces no
+tendr&aacute;s que hacer otro viaje de noche. &iquest;Qu&eacute;
+habr&iacute;a hecho yo si...</p>
+<a name="157"></a>
+<p style="text-align: justify;text-indent:30px;">-Me habr&iacute;as
+llorado mucho &iquest;no es verdad? -repliqu&eacute;
+sonri&eacute;ndome.</p>
+<a name="158"></a>
+<p style="text-align: justify;text-indent:30px;">Mir&oacute;me por
+algunos momentos, y yo agregu&eacute;:</p>
+<a name="159"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Puedo
+acaso estar cierto de morir en cualquier tiempo convencido
+de...</p>
+<a name="160"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;De
+qu&eacute;?</p>
+<a name="161"></a>
+<p style="text-align: justify;text-indent:30px;">Y adivinando lo
+dem&aacute;s en mi mirada:</p>
+<a name="162"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Siempre,
+siempre! -a&ntilde;adi&oacute; casi en secreto, aparentando
+examinar los hermosos encajes de los almohadones.</p>
+<a name="163"></a>
+<p style="text-align: justify;text-indent:30px;">-Y yo tengo cosas
+muy tristes que decirte -continu&oacute; despu&eacute;s de unos
+momentos de silencio-; tan tristes, que son la causa de mi
+enfermedad. T&uacute; estabas en la monta&ntilde;a... Mam&aacute;
+lo sabe todo; y yo o&iacute; que pap&aacute; le dec&iacute;a a ella
+que mi madre hab&iacute;a muerto de un mal cuyo nombre no
+alcanc&eacute; a o&iacute;r; que t&uacute; estabas destinado a
+hacer una bella carrera; y que yo... &iexcl;ah! yo no s&eacute; si
+es cierto lo que o&iacute;... ser&aacute; que no merezco que seas
+como eres conmigo.</p>
+<a name="164"></a>
+<p style="text-align: justify;text-indent:30px;">De sus ojos
+velados rodaron a sus mejillas p&aacute;lidas, l&aacute;grimas que
+se apresur&oacute; a enjugar.</p>
+<a name="165"></a>
+<p style="text-align: justify;text-indent:30px;">-No digas eso,
+Mar&iacute;a, no lo pienses -le dije-; no; yo te lo suplico.</p>
+<a name="166"></a>
+<p style="text-align: justify;text-indent:30px;">-Pero si yo lo he
+o&iacute;do, y despu&eacute;s fue cuando no supe de m&iacute;...
+&iquest;Por qu&eacute;, entonces?</p>
+<a name="167"></a>
+<p style="text-align: justify;text-indent:30px;">-Mira, yo te
+ruego... yo... &iquest;Quieres permitirme te mande que no hables
+m&aacute;s de eso?</p>
+<a name="168"></a>
+<p style="text-align: justify;text-indent:30px;">Hab&iacute;a
+dejado ella caer la frente sobre el brazo en que se apoyaba y cuya
+mano estrechaba yo entre las m&iacute;as, cuando o&iacute; en la
+pieza inmediata el ruido de los ropajes de Emma, que se
+acercaba.</p>
+<a name="169"></a>
+<p style="text-align: justify;text-indent:30px;">Aquella noche a la
+hora de la cena est&aacute;bamos en el comedor mis hermanas y yo
+esperando a mis padres, que tardaban m&aacute;s tiempo del
+acostumbrado. Por &uacute;ltimo se les oy&oacute; hablar en el
+sal&oacute;n como dando fin a una conversaci&oacute;n importante.
+La noble fisonom&iacute;a de mi padre mostraba, en la ligera
+contracci&oacute;n de las extremidades de sus labios y en la
+peque&ntilde;a arruga que por enmedio de las cejas le surcaba la
+frente, que acababa de sostener una lucha moral que lo hab&iacute;a
+alterado. Mi madre estaba p&aacute;lida, pero sin hacer el menor
+esfuerzo para mostrarse tranquila, me dijo al sentarse a la
+mesa:</p>
+<a name="170"></a>
+<p style="text-align: justify;text-indent:30px;">-No me
+hab&iacute;a acordado de decirte que Jos&eacute; estuvo esta
+ma&ntilde;ana a vernos y a convidarte para una cacer&iacute;a; mas
+cuando supo la novedad ocurrida, prometi&oacute; volver
+ma&ntilde;ana muy temprano. &iquest;Sabes t&uacute; si es cierto
+que se casa una de sus hijas?</p>
+<a name="171"></a>
+<p style="text-align: justify;text-indent:30px;">-Tratar&aacute; de
+consultarte su proyecto -observ&oacute; distra&iacute;damente mi
+padre.</p>
+<a name="172"></a>
+<p style="text-align: justify;text-indent:30px;">-Se trata
+probablemente de una cacer&iacute;a de osos -le
+respond&iacute;.</p>
+<a name="173"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;De osos?
+&iexcl;Qu&eacute;! &iquest;cazas t&uacute; osos?</p>
+<a name="174"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;,
+se&ntilde;or; es una cacer&iacute;a divertida que he hecho con
+&eacute;l algunas veces.</p>
+<a name="175"></a>
+<p style="text-align: justify;text-indent:30px;">-En mi pa&iacute;s
+-repuso mi padre- te tendr&iacute;an por un b&aacute;rbaro o por un
+h&eacute;roe.</p>
+<a name="176"></a>
+<p style="text-align: justify;text-indent:30px;">-Y sin embargo,
+esa clase de partidas es menos peligrosa que la de venados, que se
+hace todos los d&iacute;as y en todas partes; pues aqu&eacute;lla
+en lugar de exigir de los cazadores el que tiren a derrumbarse
+desatentados por entre bre&ntilde;as y cascadas, necesita solamente
+un poco de agilidad y punter&iacute;a certera.</p>
+<a name="177"></a>
+<p style="text-align: justify;text-indent:30px;">Mi padre, sin
+dejar ver ya en el semblante el ce&ntilde;o que antes ten&iacute;a,
+habl&oacute; de la manera c&oacute;mo se cazan ciervos en Jamaica y
+de lo aficionados que hab&iacute;an sido sus parientes a esa clase
+de pasatiempo, distingui&eacute;ndose entre ellos, por su
+tenacidad, destreza y entusiasmo, Salom&oacute;n, de quien nos
+refiri&oacute;, riendo ya, algunas an&eacute;cdotas.</p>
+<a name="178"></a>
+<p style="text-align: justify;text-indent:30px;">Al levantarnos de
+la mesa, se acerc&oacute; a m&iacute; para decirme:</p>
+<a name="179"></a>
+<p style="text-align: justify;text-indent:30px;">-Tu madre y yo
+tenemos que hablar algo contigo; ven luego a mi cuarto.</p>
+<a name="180"></a>
+<p style="text-align: justify;text-indent:30px;">A tiempo que
+entraba a &eacute;l, mi padre escrib&iacute;a dando la espalda a mi
+madre, que se hallaba en la parte menos alumbrada de la
+habitaci&oacute;n, sentada en la butaca que ocupaba siempre que se
+deten&iacute;a all&iacute;.</p>
+<a name="181"></a>
+<p style="text-align: justify;text-indent:30px;">-Si&eacute;ntate
+-me dijo &eacute;l, dejando por un momento de escribir y
+mir&aacute;ndome por encima de los espejuelos, que eran de vidrios
+blancos y fino engaste de oro.</p>
+<a name="182"></a>
+<p style="text-align: justify;text-indent:30px;">Pasados algunos
+minutos, habiendo colocado cuidadosamente en su lugar el libro de
+cuentas en que estaba escribiendo, acerc&oacute; un asiento al que
+yo ocupaba, y en voz baja habl&oacute; as&iacute;:</p>
+<a name="183"></a>
+<p style="text-align: justify;text-indent:30px;">-He querido que tu
+madre presencie esta conversaci&oacute;n, porque se trata de un
+asunto grave sobre el cual tiene ella la misma opini&oacute;n que
+yo.</p>
+<a name="184"></a>
+<p style="text-align: justify;text-indent:30px;">Dirigi&oacute;se a
+la puerta para entornarla y botar el cigarro que estaba fumando, y
+continu&oacute; de esta manera:</p>
+<a name="185"></a>
+<p style="text-align: justify;text-indent:30px;">-Hace ya tres
+meses que est&aacute;s con nosotros, y solamente pasados dos
+m&aacute;s podr&aacute; el se&ntilde;or A*** emprender su viaje a
+Europa, y con &eacute;l es con quien debes irte. Esa demora, hasta
+cierto punto, nada significa, tanto porque es muy grato para
+nosotros tenerte a nuestro lado despu&eacute;s de seis a&ntilde;os
+de ausencia a que han de seguir otros, como porque observo con
+placer que aun aqu&iacute;, es el estudio uno de tus goces
+predilectos. No puedo ocultarte, ni debo hacerlo, que he concebido
+grandes esperanzas, por tu car&aacute;cter y aptitudes, de que
+coronar&aacute;s lucidamente la carrera que vas a seguir. No
+ignoras que pronto la familia necesitar&aacute; de tu apoyo, con
+mayor raz&oacute;n despu&eacute;s de la muerte de tu hermano.</p>
+<a name="186"></a>
+<p style="text-align: justify;text-indent:30px;">Luego, haciendo
+una pausa, prosigui&oacute;:</p>
+<a name="187"></a>
+<p style="text-align: justify;text-indent:30px;">-Hay algo en tu
+conducta que es preciso decirte no est&aacute; bien: t&uacute; no
+tienes m&aacute;s que veinte a&ntilde;os, y a esa edad un amor
+fomentado inconsideradamente podr&iacute;a hacer ilusorias todas
+las esperanzas de que acabo de hablarte. T&uacute; amas a
+Mar&iacute;a, y hace muchos d&iacute;as que lo s&eacute;, como es
+natural. Mar&iacute;a es casi mi hija, y yo no tendr&iacute;a nada
+que observar, si tu edad y posici&oacute;n nos permitieran pensar
+en un matrimonio; pero no lo permiten, y Mar&iacute;a es muy joven.
+No son &uacute;nicamente &eacute;stos los obst&aacute;culos que se
+presentan; hay uno quiz&aacute; insuperable, y es de mi deber
+hablarte de &eacute;l. Mar&iacute;a puede arrastrarte y
+arrastrarnos contigo a una desgracia lamentable de que est&aacute;
+amenazada. El doctor Mayn se atreve casi a asegurar que ella
+morir&aacute; joven del mismo mal a que sucumbi&oacute; su madre:
+lo que sufri&oacute; ayer es un s&iacute;ncope epil&eacute;ptico,
+que tomando incremento en cada acceso, terminar&aacute; por una
+epilepsia del peor car&aacute;cter conocido: eso dice el doctor.
+Responde t&uacute; ahora, meditando mucho lo que vas a decir, a una
+sola pregunta; responde como hombre racional y caballero que eres;
+y que no sea lo que contestes dictado por una exaltaci&oacute;n
+extra&ntilde;a a tu car&aacute;cter, trat&aacute;ndose de tu
+porvenir y el de los tuyos. Sabes la opini&oacute;n del
+m&eacute;dico, opini&oacute;n que merece respeto por ser Mayn quien
+la da; te es conocida la suerte de la esposa de Salom&oacute;n:
+&iquest;si nosotros consinti&eacute;ramos en ello, te
+casar&iacute;as hoy con Mar&iacute;a?</p>
+<a name="188"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;,
+se&ntilde;or -le respond&iacute;.</p>
+<a name="189"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Lo
+arrostrar&iacute;as todo?</p>
+<a name="190"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Todo,
+todo!</p>
+<a name="191"></a>
+<p style="text-align: justify;text-indent:30px;">-Creo que no
+solamente hablo con un hijo sino con el caballero que en ti he
+tratado de formar.</p>
+<a name="192"></a>
+<p style="text-align: justify;text-indent:30px;">Mi madre
+ocult&oacute; en ese momento el rostro en el pa&ntilde;uelo. Mi
+padre, enternecido tal vez por esas l&aacute;grimas y acaso
+tambi&eacute;n por la resoluci&oacute;n que en m&iacute;
+encontraba, conociendo que la voz iba a faltarle, dej&oacute; por
+unos instantes de hablar.</p>
+<a name="193"></a>
+<p style="text-align: justify;text-indent:30px;">-Pues bien
+-continu&oacute;-; puesto que esa noble resoluci&oacute;n te anima,
+s&iacute; convendr&aacute;s conmigo en que antes de cinco
+a&ntilde;os no podr&aacute;s ser esposo de Mar&iacute;a. No soy yo
+quien debe decirte que ella, despu&eacute;s de haberte amado desde
+ni&ntilde;a, te ama hoy de tal manera, que emociones intensas,
+nuevas para ella, son las que seg&uacute;n Mayn, han hecho aparecer
+los s&iacute;ntomas de la enfermedad: es decir que tu amor y el
+suyo necesitan precauciones, y que en adelante exijo me prometas,
+para tu bien, puesto que tanto as&iacute; la amas, y para bien de
+ella, que seguir&aacute;s los consejos del doctor, dados por si
+llegaba este caso. Nada le debes prometer a Mar&iacute;a, pues que
+la promesa de ser su esposo una vez cumplido el plazo que he
+se&ntilde;alado, har&iacute;a vuestro trato m&aacute;s
+&iacute;ntimo, que es precisamente lo que se trata de evitar.
+In&uacute;tiles son para ti m&aacute;s explicaciones: siguiendo esa
+conducta, puedes salvar a Mar&iacute;a; puedes evitarnos la
+desgracia de perderla.</p>
+<a name="194"></a>
+<p style="text-align: justify;text-indent:30px;">-En recompensa de
+todo lo que te concedemos -dijo volvi&eacute;ndose a mi madre-,
+debes prometerme lo siguiente: no hablar a Mar&iacute;a del peligro
+que la amenaza, ni revelarle nada de lo que esta noche ha pasado
+entre nosotros. Debes saber tambi&eacute;n mi opini&oacute;n sobre
+tu matrimonio con ella, si su enfermedad persistiere despu&eacute;s
+de tu regreso a este pa&iacute;s... pues vamos pronto a separarnos
+por algunos a&ntilde;os: como padre tuyo y de Mar&iacute;a, no
+ser&iacute;a de mi aprobaci&oacute;n ese enlace. Al expresar esta
+resoluci&oacute;n irrevocable, no es por dem&aacute;s hacerte saber
+que Salom&oacute;n, en los tres &uacute;ltimos a&ntilde;os de su
+vida, consigui&oacute; formar un capital de alguna
+consideraci&oacute;n, el cual est&aacute; en mi poder destinado a
+servir de dote a su hija. Mas si ella muere antes de casarse, debe
+pasar aqu&eacute;l a manos de su abuela materna, que est&aacute; en
+Kingston.</p>
+<a name="195"></a>
+<p style="text-align: justify;text-indent:30px;">Mi padre se
+pase&oacute; algunos momentos por el cuarto. Creyendo yo concluida
+nuestra conferencia, me puse en pie para retirarme; pero &eacute;l,
+volviendo a ocupar su asiento e indic&aacute;ndome el m&iacute;o,
+reanud&oacute; su discurso as&iacute;.</p>
+<a name="196"></a>
+<p style="text-align: justify;text-indent:30px;">-Hace cuatro
+d&iacute;as que recib&iacute; una carta del se&ntilde;or de M***
+pidi&eacute;ndome la mano de Mar&iacute;a para su hijo Carlos.</p>
+<a name="197"></a>
+<p style="text-align: justify;text-indent:30px;">No pude ocultar la
+sorpresa que me causaron estas palabras. Mi padre se sonri&oacute;
+imperceptiblemente antes de agregar:</p>
+<a name="198"></a>
+<p style="text-align: justify;text-indent:30px;">-El se&ntilde;or
+de M*** da quince d&iacute;as de t&eacute;rmino para aceptar o no
+su propuesta, durante los cuales vendr&aacute;n a hacernos una
+visita que antes me ten&iacute;an prometida. Todo te ser&aacute;
+f&aacute;cil despu&eacute;s de lo pactado entre nosotros.</p>
+<a name="199"></a>
+<p style="text-align: justify;text-indent:30px;">-Buenas noches,
+pues -dijo poni&eacute;ndome afectuosamente la mano sobre el
+hombro-: que seas muy feliz en tu cacer&iacute;a; yo necesito la
+piel del oso que mates para ponerla a los pies de mi catre.</p>
+<a name="200"></a>
+<p style="text-align: justify;text-indent:30px;">-Est&aacute; bien
+-le respond&iacute;.</p>
+<a name="201"></a>
+<p style="text-align: justify;text-indent:30px;">Mi madre me
+tendi&oacute; la mano, y reteniendo la m&iacute;a, me dijo:</p>
+<a name="202"></a>
+<p style="text-align: justify;text-indent:30px;">-Te esperamos
+temprano; &iexcl;cuidado con esos animales!</p>
+<a name="203"></a>
+<p style="text-align: justify;text-indent:30px;">Tantas emociones
+se hab&iacute;an sucedido agit&aacute;ndome en las &uacute;ltimas
+horas, que apenas pod&iacute;a darme cuenta de cada una de ellas, y
+me era imposible hacerme cargo de mi extra&ntilde;a y
+dif&iacute;cil situaci&oacute;n.</p>
+<a name="204"></a>
+<p style="text-align: justify;text-indent:30px;">
+&iexcl;Mar&iacute;a amenazada de muerte; prometida as&iacute; por
+recompensa a mi amor, mediante una ausencia terrible; prometida con
+la condici&oacute;n de amarla menos; yo obligado a moderar tan
+poderoso amor, amor adue&ntilde;ado para siempre de todo mi ser, so
+pena de verla desaparecer de la tierra como una de las beldades
+fugitivas de mis ensue&ntilde;os, y teniendo que aparecer en
+adelante ingrato e insensible tal vez a sus ojos, s&oacute;lo por
+una conducta que la necesidad y la raz&oacute;n me obligaban a
+adoptar! Ya no podr&iacute;a yo volver a o&iacute;rle aquellas
+confidencias hechas con voz conmovida; mis labios no podr&iacute;an
+tocar ni siquiera el extremo de una de sus trenzas. M&iacute;a o de
+la muerte, entre la muerte y yo, un paso m&aacute;s para acercarme
+a ella, ser&iacute;a perderla; y dejarla llorar en abandono, era un
+suplicio superior a mis fuerzas.</p>
+<a name="205"></a>
+<p style="text-align: justify;text-indent:30px;">
+&iexcl;Coraz&oacute;n cobarde! no fuiste capaz de dejarte consumir
+por aquel fuego que mal escondido pod&iacute;a agostarla...
+&iquest;D&oacute;nde est&aacute; ella ahora, ahora que ya no
+palpitas; ahora que los d&iacute;as y los a&ntilde;os pasan sobre
+m&iacute; sin que sepa yo que te poseo?</p>
+<a name="206"></a>
+<p style="text-align: justify;text-indent:30px;">Cumpliendo Juan
+&Aacute;ngel mis &oacute;rdenes, llam&oacute; a la puerta de mi
+cuarto al amanecer.</p>
+<a name="207"></a>
+<p style="text-align: justify;text-indent:30px;">
+-&iquest;C&oacute;mo est&aacute; la ma&ntilde;ana? -le
+pregunt&eacute;.</p>
+<a name="208"></a>
+<p style="text-align: justify;text-indent:30px;">-Mala, mi amo;
+quiere llover.</p>
+<a name="209"></a>
+<p style="text-align: justify;text-indent:30px;">-Bueno. Vete a la
+monta&ntilde;a y dile a Jos&eacute; que no me espere hoy.</p>
+<a name="210"></a>
+<p style="text-align: justify;text-indent:30px;">Cuando abr&iacute;
+la ventana me arrepent&iacute; de haber enviado al negrito, quien
+silbando y tarareando bambucos iba a internarse en la primera
+mancha de bosque.</p>
+<a name="211"></a>
+<p style="text-align: justify;text-indent:30px;">Soplaba de la
+sierra un viento fr&iacute;o y destemplado que sacud&iacute;a los
+rosales y mec&iacute;a los sauces, desviando en su vuelo a una que
+otra pareja de loros viajeros. Todas las aves, lujo del huerto en
+las ma&ntilde;anas alegres, callaban, y solamente los pellares
+revoloteaban en los prados vecinos, saludando con su canto al
+triste d&iacute;a de invierno.</p>
+<a name="212"></a>
+<p style="text-align: justify;text-indent:30px;">En breve las
+monta&ntilde;as desaparecieron bajo el velo ceniciento de una
+lluvia nutrida, que dejaba o&iacute;r ya su creciente rumor al
+acercarse azotando los bosques. A la media hora, turbios y
+estrepitosos arroyos descend&iacute;an peinando los pajonales de
+las laderas del otro lado del r&iacute;o, que acrecentado, tronaba
+iracundo y se divisaba en las lejanas revueltas amarillento,
+desbordado y undoso.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_18_" id="I_18_"></a><a href="#I_17_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_19_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XVII -</h2>
+</div>
+<a name="213"></a>
+<p style="text-align: justify;text-indent:30px;">Diez d&iacute;as
+hab&iacute;an pasado desde que tuvo lugar aquella penosa
+conferencia. No sinti&eacute;ndome capaz de cumplir los deseos de
+mi padre sobre la nueva especie de trato que seg&uacute;n &eacute;l
+deb&iacute;a yo usar con Mar&iacute;a, y preocupado dolorosamente
+con la propuesta de matrimonio hecha por Carlos, hab&iacute;a
+buscado toda clase de pretextos para alejarme de la casa.
+Pas&eacute; aquellos d&iacute;as, ya encerrado en mi cuarto, ya en
+la posesi&oacute;n de Jos&eacute;, las m&aacute;s veces vagando a
+pie por los alrededores. Llevaba por compa&ntilde;ero en mis paseos
+alg&uacute;n libro en que no acertaba a poder leer, mi escopeta,
+que nunca disparaba, y a Mayo, que me segu&iacute;a
+fatig&aacute;ndose. Mientras dominado yo por una honda
+melancol&iacute;a dejaba correr las horas oculto en los sitios
+m&aacute;s agrestes, &eacute;l procuraba en vano dormitar enroscado
+sobre la hojarasca, de donde lo desalojaban las hormigas o lo
+hac&iacute;an saltar impaciente los t&aacute;banos y zancudos.
+Cuando el viejo amigo se cansaba de la inacci&oacute;n y el
+silencio, que le eran antip&aacute;ticos a pesar de sus achaques,
+se me acercaba, y recostando la cabeza sobre una de mis rodillas,
+me miraba cari&ntilde;oso, para alejarse despu&eacute;s y esperarme
+a algunas varas de distancia en el sendero que conduc&iacute;a a la
+casa; y en su af&aacute;n porque emprendi&eacute;semos marcha, una
+vez conseguido que yo le siguiera, se propasaba hasta dar algunos
+brincos de alegr&iacute;a, juveniles entusiasmos en que a
+m&aacute;s de olvidar su compostura y senil gravedad, sal&iacute;a
+poco airoso.</p>
+<a name="214"></a>
+<p style="text-align: justify;text-indent:30px;">Una ma&ntilde;ana
+entr&oacute; mi madre a mi cuarto, y sent&aacute;ndose a la
+cabecera de la cama, de la cual no hab&iacute;a salido yo
+a&uacute;n, me dijo:</p>
+<a name="215"></a>
+<p style="text-align: justify;text-indent:30px;">-Esto no puede
+ser: no debes seguir viviendo as&iacute;; yo no me conformo.</p>
+<a name="216"></a>
+<p style="text-align: justify;text-indent:30px;">Como yo guardara
+silencio, continu&oacute;:</p>
+<a name="217"></a>
+<p style="text-align: justify;text-indent:30px;">-Lo que haces no
+es lo que tu padre ha exigido; es mucho m&aacute;s; y tu conducta
+es cruel para con nosotros y m&aacute;s cruel para con
+Mar&iacute;a. Estaba persuadida de que tus frecuentes paseos
+ten&iacute;an por objeto ir a casa de Luisa con motivo del
+cari&ntilde;o que te profesan all&iacute;; pero Braulio, que vino
+ayer tarde, nos hizo saber que hac&iacute;a cinco d&iacute;as que
+no te ve&iacute;a. &iquest;Qu&eacute; es lo que te causa esa
+profunda tristeza que no puedes dominar ni en los pocos ratos que
+pasas en sociedad con la familia, y que te hace buscar
+constantemente la soledad, como si te fuera ya enojoso el estar con
+nosotros?</p>
+<a name="218"></a>
+<p style="text-align: justify;text-indent:30px;">Sus ojos estaban
+llenos de l&aacute;grimas.</p>
+<a name="219"></a>
+<p style="text-align: justify;text-indent:30px;">-Mar&iacute;a,
+se&ntilde;ora -le respond&iacute;-, debe ser completamente libre
+para aceptar o no la suerte que le ofrece Carlos; y yo, como amigo
+de &eacute;l, no debo hacerle ilusorias las esperanzas que
+fundadamente debe de alimentar de ser aceptado.</p>
+<a name="220"></a>
+<p style="text-align: justify;text-indent:30px;">As&iacute;
+revelaba, sin poder evitarlo, el m&aacute;s insoportable dolor que
+me hab&iacute;a atormentado desde la noche en que supe la propuesta
+de los se&ntilde;ores de M***. Nada hab&iacute;an llegado a ser
+para m&iacute; delante de aquella propuesta los fatales
+pron&oacute;sticos del doctor sobre la enfermedad de Mar&iacute;a;
+nada la necesidad de separarme de ella por muchos a&ntilde;os.</p>
+<a name="221"></a>
+<p style="text-align: justify;text-indent:30px;">
+-&iquest;C&oacute;mo has podido imaginar tal cosa? -me
+pregunt&oacute; sorprendida mi madre-. Apenas habr&aacute; visto
+ella dos veces a tu amigo: justamente una en que estuvo aqu&iacute;
+&eacute;l algunas horas, y otra en que fuimos a visitar a su
+familia.</p>
+<a name="222"></a>
+<p style="text-align: justify;text-indent:30px;">-Pero, madre
+m&iacute;a, poco es el tiempo que falta para que se justifique o se
+desvanezca lo que he pensado. Me parece que bien vale la pena de
+esperar.</p>
+<a name="223"></a>
+<p style="text-align: justify;text-indent:30px;">-Eres muy injusto,
+y te arrepentir&aacute;s de haberlo sido. Mar&iacute;a, por
+dignidad y por deber, sabi&eacute;ndose dominar mejor que
+t&uacute;, oculta lo mucho que tu conducta la est&aacute; haciendo
+sufrir. Me cuesta trabajo creer lo que veo; me asombra o&iacute;r
+lo que acabas de decir. &iexcl;Yo, que cre&iacute; darte una grande
+alegr&iacute;a y remediarlo todo haci&eacute;ndote saber lo que
+Mayn nos dijo ayer al despedirse!</p>
+<a name="224"></a>
+<p style="text-align: justify;text-indent:30px;">-Diga usted,
+d&iacute;galo -le supliqu&eacute; incorpor&aacute;ndome.</p>
+<a name="225"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Para
+qu&eacute; ya?</p>
+<a name="226"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Ella no
+ser&aacute; siempre... no ser&aacute; siempre mi hermana?</p>
+<a name="227"></a>
+<p style="text-align: justify;text-indent:30px;">-Tarde piensas
+as&iacute;. &iquest;O es que puede un hombre ser caballero y hacer
+lo que t&uacute; haces? No, no; eso no debe hacerlo un hijo
+m&iacute;o... &iexcl;Tu hermana! &iexcl;Y te olvidas de que lo
+est&aacute;s diciendo a quien te conoce m&aacute;s que t&uacute;
+mismo! &iexcl;Tu hermana! &iexcl;y s&eacute; que te ama desde que
+os dorm&iacute;a a ambos sobre mis rodillas! &iquest;y es ahora
+cuando lo crees? ahora que ven&iacute;a a hablarte de eso, asustada
+por el sufrimiento que la pobrecita trata in&uacute;tilmente de
+ocultarme.</p>
+<a name="228"></a>
+<p style="text-align: justify;text-indent:30px;">-Yo no quiero, ni
+por un instante, darle motivo a usted para un disgusto como el que
+me deja conocer. D&iacute;game qu&eacute; debo hacer para remediar
+lo que ha encontrado usted reprobable en mi conducta.</p>
+<a name="229"></a>
+<p style="text-align: justify;text-indent:30px;">-As&iacute; debe
+ser. &iquest;No deseas que la quiera tanto como a ti?</p>
+<a name="230"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;,
+se&ntilde;ora; y as&iacute; es, &iquest;no es verdad?</p>
+<a name="231"></a>
+<p style="text-align: justify;text-indent:30px;">-As&iacute;
+ser&aacute;, aunque me hubiera olvidado de que no tiene otra madre
+que yo, de las recomendaciones de Salom&oacute;n y la confianza de
+que &eacute;l me crey&oacute; digna; porque ella lo merece y te ama
+tanto. El doctor asegura que el mal de Mar&iacute;a no es el que
+sufri&oacute; Sara.</p>
+<a name="232"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;&Eacute;l
+lo ha dicho?</p>
+<a name="233"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;; tu
+padre, tranquilizado ya por esa parte, ha querido que yo te lo haga
+saber.</p>
+<a name="234"></a>
+<p style="text-align: justify;text-indent:30px;">
+-&iquest;Podr&eacute;, pues, volver a ser con ella como antes?
+-pregunt&eacute; enajenado.</p>
+<a name="235"></a>
+<p style="text-align: justify;text-indent:30px;">-Casi...</p>
+<a name="236"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Oh! ella
+me disculpar&aacute;; &iquest;no lo cree usted? &iquest;El doctor
+ha dicho que no hay ninguna clase de peligro? -agregu&eacute;-; es
+necesario que lo sepa Carlos.</p>
+<a name="237"></a>
+<p style="text-align: justify;text-indent:30px;">Mi madre me
+mir&oacute; con extra&ntilde;eza antes de responderme:</p>
+<a name="238"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Y por
+qu&eacute; se le hab&iacute;a de ocultar? R&eacute;stame decirte lo
+que creo debes hacer, puesto que los se&ntilde;ores de M*** han de
+venir ma&ntilde;ana, seg&uacute;n lo anuncian. Dile esta tarde a
+Mar&iacute;a... Pero, &iquest;qu&eacute; puedes decirle que baste a
+justificar tu despego, sin faltar a las &oacute;rdenes de tu padre?
+Y aunque pudieras hablarle de lo que &eacute;l te exigi&oacute;, no
+podr&iacute;as disculparte, pues que para hacer lo que has hecho en
+estos d&iacute;as hay una causa que por orgullo y delicadeza no
+debes descubrir. He ah&iacute; el resultado. Es forzoso que yo
+manifieste a Mar&iacute;a el motivo real de tu tristeza.</p>
+<a name="239"></a>
+<p style="text-align: justify;text-indent:30px;">-Pero si usted lo
+hace, si he sido ligero en creer lo que he cre&iacute;do,
+&iquest;qu&eacute; pensar&aacute; ella de m&iacute;?</p>
+<a name="240"></a>
+<p style="text-align: justify;text-indent:30px;">-Pensar&aacute;
+menos mal que consider&aacute;ndote capaz de una veleidad e
+inconsecuencia m&aacute;s odiosas que todo.</p>
+<a name="241"></a>
+<p style="text-align: justify;text-indent:30px;">-Tiene usted
+raz&oacute;n hasta cierto punto; pero yo le suplico no diga a
+Mar&iacute;a nada de lo que acabamos de hablar. He incurrido en un
+error, que tal vez me ha hecho sufrir m&aacute;s a m&iacute; que a
+ella, y debo remediarlo; le prometo a usted que lo
+remediar&eacute;: le exijo solamente dos d&iacute;as para hacerlo
+como se debe.</p>
+<a name="242"></a>
+<p style="text-align: justify;text-indent:30px;">-Bien -me dijo
+levant&aacute;ndose para irse-; &iquest;sales hoy?</p>
+<a name="243"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;,
+se&ntilde;ora.</p>
+<a name="244"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;A
+d&oacute;nde vas?</p>
+<a name="245"></a>
+<p style="text-align: justify;text-indent:30px;">-Voy a pagar a
+Emigdio su visita de bienvenida; y es imprescindible, porque ayer
+le mand&eacute; a decir con el mayordomo de su padre que me
+esperara hoy a almorzar.</p>
+<a name="246"></a>
+<p style="text-align: justify;text-indent:30px;">-Mas
+volver&aacute;s temprano.</p>
+<a name="247"></a>
+<p style="text-align: justify;text-indent:30px;">-A las cuatro o
+las cinco.</p>
+<a name="248"></a>
+<p style="text-align: justify;text-indent:30px;">-Vente a comer
+aqu&iacute;.</p>
+<a name="249"></a>
+<p style="text-align: justify;text-indent:30px;">-S&iacute;.
+&iquest;Est&aacute; usted otra vez satisfecha de m&iacute;?</p>
+<a name="250"></a>
+<p style="text-align: justify;text-indent:30px;">-C&oacute;mo no
+-respondi&oacute; sonriendo-. Hasta la tarde, pues: dar&aacute;s
+finos recuerdos a las se&ntilde;oras, de parte m&iacute;a y de las
+muchachas.</p>
+<br />
+<br />
+<br />
+<div align="center">
+<h2><a name="I_19_" id="I_19_"></a><a href="#I_18_"><img align=
+"right" alt="Arriba" border="0" width="13" height="10" hspace="0"
+vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botup.gif" /></a><a href=
+"#I_20_"><img align="right" alt="Abajo" border="0" width="13"
+height="10" hspace="0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botdown.gif" /></a>-
+XVIII -</h2>
+</div>
+<a name="251"></a>
+<p style="text-align: justify;text-indent:30px;">Ya estaba yo listo
+para partir cuando Emma entr&oacute; a mi cuarto.
+Extra&ntilde;&oacute; verme con semblante risue&ntilde;o.</p>
+<a name="252"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;A
+d&oacute;nde vas tan contento?-me pregunt&oacute;.</p>
+<a name="253"></a>
+<p style="text-align: justify;text-indent:30px;">-Ojal&aacute; no
+tuviera que ir a ninguna parte. A ver a Emigdio, que se queja de mi
+inconstancia en todos los tonos, siempre que me encuentro con
+&eacute;l.</p>
+<a name="254"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Qu&eacute;
+injusto! -exclam&oacute; riendo-. &iquest;Inconstante
+t&uacute;?</p>
+<a name="255"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;De
+qu&eacute; te r&iacute;es?</p>
+<a name="256"></a>
+<p style="text-align: justify;text-indent:30px;">-Pues de la
+injusticia de tu amigo. &iexcl;Pobre!</p>
+<a name="257"></a>
+<p style="text-align: justify;text-indent:30px;">-No, no: t&uacute;
+te r&iacute;es de otra cosa.</p>
+<a name="258"></a>
+<p style="text-align: justify;text-indent:30px;">-De eso es -dijo
+tomando de mi mesa de ba&ntilde;o una peinilla y
+acerc&aacute;ndoseme-. Deja que te peine yo, porque sabr&aacute;
+usted, se&ntilde;or constante, que una de las hermanas de su amigo
+es una linda muchacha. L&aacute;stima -continu&oacute;, haciendo el
+peinado ayudada de sus graciosas manos- que el se&ntilde;orito
+Efra&iacute;n se haya puesto un poquito p&aacute;lido en estos
+d&iacute;as, porque las bugue&ntilde;as no imaginan belleza varonil
+sin frescos colores en las mejillas. Pero si la hermana de Emigdio
+estuviese al corriente de...</p>
+<a name="259"></a>
+<p style="text-align: justify;text-indent:30px;">-T&uacute;
+est&aacute;s muy parlera hoy.</p>
+<a name="260"></a>
+<p style="text-align: justify;text-indent:30px;">
+-&iquest;S&iacute;? y t&uacute; muy alegre. M&iacute;rate al espejo
+y dime si no has quedado muy bien.</p>
+<a name="261"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Qu&eacute;
+visita! -exclam&eacute; oyendo la voz de Mar&iacute;a que llamaba a
+mi hermana.</p>
+<a name="262"></a>
+<p style="text-align: justify;text-indent:30px;">-De veras.
+Cu&aacute;nto mejor ser&iacute;a ir a dar un paseo por los picachos
+del boquer&oacute;n de Amaime y disfrutar del... grandioso y
+solitario paisaje, o andar por los montes como res herida,
+espantando zancudos, sin perjuicio de que Mayo se llene de
+nuches..., &iexcl;pobre! que est&aacute; imposible.</p>
+<a name="263"></a>
+<p style="text-align: justify;text-indent:30px;">-Mar&iacute;a te
+llama -le interrump&iacute;.</p>
+<a name="264"></a>
+<p style="text-align: justify;text-indent:30px;">-Ya s&eacute; para
+qu&eacute; es.</p>
+<a name="265"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Para
+qu&eacute;?</p>
+<a name="266"></a>
+<p style="text-align: justify;text-indent:30px;">-Para que le ayude
+a hacer una cosa que no debiera hacer.</p>
+<a name="267"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Se puede
+saber cu&aacute;l?</p>
+<a name="268"></a>
+<p style="text-align: justify;text-indent:30px;">-No hay
+inconveniente: me est&aacute; esperando para que vayamos a coger
+flores que han de servir para reemplazar &eacute;stas -dijo
+se&ntilde;alando las del florero de mi mesa-; y si yo fuera ella no
+volver&iacute;a a poner ni una m&aacute;s ah&iacute;.</p>
+<a name="269"></a>
+<p style="text-align: justify;text-indent:30px;">-Si t&uacute;
+supieras...</p>
+<a name="270"></a>
+<p style="text-align: justify;text-indent:30px;">-Y si supieras
+t&uacute;...</p>
+<a name="271"></a>
+<p style="text-align: justify;text-indent:30px;">Mi padre, que me
+llamaba desde su cuarto, interrumpi&oacute; aquella
+conversaci&oacute;n, que continuada, habr&iacute;a podido frustrar
+lo que desde mi &uacute;ltima entrevista con mi madre me
+hab&iacute;a propuesto llevar a cabo.</p>
+<a name="272"></a>
+<p style="text-align: justify;text-indent:30px;">Al entrar en el
+cuarto de mi padre, examinaba &eacute;l en la ventana la
+m&aacute;quina de un hermoso reloj de bolsillo, y dec&iacute;a:</p>
+<a name="273"></a>
+<p style="text-align: justify;text-indent:30px;">-Es una cosa
+admirable; indudablemente vale las treinta libras.
+Volvi&eacute;ndose en seguida hacia m&iacute;, agreg&oacute;:</p>
+<a name="274"></a>
+<p style="text-align: justify;text-indent:30px;">-&Eacute;ste es el
+reloj que encargu&eacute; a Londres; m&iacute;ralo.</p>
+<a name="275"></a>
+<p style="text-align: justify;text-indent:30px;">-Es mucho mejor
+que el que usted usa -observ&eacute; examin&aacute;ndolo.</p>
+<a name="276"></a>
+<p style="text-align: justify;text-indent:30px;">-Pero el que uso
+es muy exacto, y el tuyo muy peque&ntilde;o: debes regalarlo a una
+de las muchachas y tomar para ti &eacute;ste.</p>
+<a name="277"></a>
+<p style="text-align: justify;text-indent:30px;">Sin dejarme tiempo
+para darle las gracias, a&ntilde;adi&oacute;:</p>
+<a name="278"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Vas a
+casa de Emigdio? Di a su padre que puedo preparar el potrero de
+guinea para que hagamos la ceba en compa&ntilde;&iacute;a; pero que
+su ganado debe estar listo, precisamente, el quince del
+entrante.</p>
+<a name="279"></a>
+<p style="text-align: justify;text-indent:30px;">Volv&iacute; en
+seguida a mi cuarto a tomar mis pistolas. Mar&iacute;a, desde el
+jard&iacute;n y al pie de mi ventana, entregaba a Emma un manojo de
+montenegros, mejoranas y claveles; pero el m&aacute;s hermoso de
+&eacute;stos por su tama&ntilde;o y lozan&iacute;a, lo ten&iacute;a
+ella en los labios.</p>
+<a name="280"></a>
+<p style="text-align: justify;text-indent:30px;">-Buenos
+d&iacute;as, Mar&iacute;a -le dije apresur&aacute;ndome a recibirle
+las flores.</p>
+<a name="281"></a>
+<p style="text-align: justify;text-indent:30px;">Ella, palideciendo
+instant&aacute;neamente, correspondi&oacute; cortada al saludo, y
+el clavel se le desprendi&oacute; de la boca. Entreg&oacute;me las
+flores, dejando caer algunas a los pies, las cuales recogi&oacute;
+y puso a mi alcance cuando sus mejillas estaban nuevamente
+sonroseadas.</p>
+<a name="282"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Quieres
+-le dije al recibir las &uacute;ltimas- cambiarme todas
+&eacute;stas por el clavel que ten&iacute;as en los labios?</p>
+<a name="283"></a>
+<p style="text-align: justify;text-indent:30px;">-Lo he pisado
+-respondi&oacute; bajando la cabeza para buscarlo.</p>
+<a name="284"></a>
+<p style="text-align: justify;text-indent:30px;">-As&iacute;
+pisado, te dar&eacute; todas &eacute;stas por &eacute;l.</p>
+<a name="285"></a>
+<p style="text-align: justify;text-indent:30px;">Permanec&iacute;a
+en la misma actitud sin responderme.</p>
+<a name="286"></a>
+<p style="text-align: justify;text-indent:30px;">-&iquest;Permites
+que vaya yo a recogerlo?</p>
+<a name="287"></a>
+<p style="text-align: justify;text-indent:30px;">Se inclin&oacute;
+entonces para tomarlo y me lo entreg&oacute; sin mirarme.</p>
+<a name="288"></a>
+<p style="text-align: justify;text-indent:30px;">Entretanto Emma
+fing&iacute;a completa distracci&oacute;n colocando las flores
+nuevas.</p>
+<a name="289"></a>
+<p style="text-align: justify;text-indent:30px;">Estrech&eacute;le
+a Mar&iacute;a la mano con que entregaba el clavel deseado,
+dici&eacute;ndole:</p>
+<a name="290"></a>
+<p style="text-align: justify;text-indent:30px;">-&iexcl;Gracias,
+gracias! Hasta la tarde.</p>
+<a name="291"></a>
+<p style="text-align: justify;text-indent:30px;">Alz&oacute; los
+ojos para verme con la m&aacute;s arrobadora expresi&oacute;n que
+pueden producir, al combinarse en la mirada de una mujer, la
+ternura y el pudor, la reconvenci&oacute;n y las
+l&aacute;grimas.</p>
+<br />
+<br />
+<a name="I_20_" id="I_20_"></a><a name="PV_1_" id="PV_1_"></a>
+<div align="center"><a href=
+"feddb01c-82b1-11df-acc7-002185ce6064.html"><img align="right" alt=
+"Indice" border="0" width="13" height="10" hspace="0" vspace="0"
+src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botinx.gif" /></a> <a href="feddb01c-82b1-11df-acc7-002185ce6064_3.html"><img align=
+"right" alt="Siguiente" border="0" width="13" height="10" hspace=
+"0" vspace="0" src="/s3/BVMC_OBRAS/fed/db0/1c8/2b1/11d/fac/c70/021/85c/e60/64/mimes/../img/botnext.gif" /></a><br />
+<br />
+<br /></div>
+</body>
+</html>
+									</div>
+					             	                             
+            			<div class="modal fade" tabindex="-1" role="dialog" id="modal-nota">
+					<div class="modal-dialog" role="document">
+						<div class="modal-content" id="modal-nota-div">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								<!-- Para quitar la nota doble<h4 class="modal-title">Nota</h4>-->
+							</div>
+							<div id="modal-nota-contenido" class="modal-body">
+								<p>One fine body&hellip;</p>
+							</div>
+							<div class="modal-footer">
+								<p style="text-align:center;"><a id="modal-nota-enlace" class="btn btn-default" href="#">Ir a las notas <span class="glyphicon glyphicon-share-alt"></span></a></p>
+								<!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+								<!--<button type="button" class="btn btn-primary">Save changes</button>-->
+							</div>							
+						</div><!-- /.modal-content -->						
+					</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+                </div>			
+			</section>
+				
+            </main>
+            <footer id="pie" role="contentinfo">
+                
+    <p class="credits_1"><a href="/" title="Visitar sitio web"><strong>Biblioteca Virtual Miguel de Cervantes</strong></a></p>
+    <ul class="menuPie">
+        <li><a href="/mapa-web/">Mapa del sitio</a></li>
+        <li><a href="/cookies/">Pol&iacute;tica de <em>cookies</em></a></li>
+        <li><a href="/marco-legal/">Marco legal</a></li>
+    </ul>
+            </footer>
+        </div>
+		
+        		<script type="text/javascript" src="/includes/componentes/flowplayer.min.js"></script>		
+<!--		<script src="/includes/componentes/fancy/jquery.fancy.min.js" type="text/javascript">-->
+
+	    <script src="/includes/componentes_responsive/fancyBox/source/jquery.fancybox.js"></script>	
+
+		
+    	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	    <script src="/includes/componentes_responsive/bootstrap/js/bootstrap.min.js"></script>
+		        	<script src="/includes/js_responsive/funciones.js"></script>
+        
+                                                           
+                    
+                                                                                                      
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            
+                        ga('create', 'UA-16084725-1', 'auto', {legacyCookieDomain: '.cervantesvirtual.com', allowLinker: true});
+            
+            ga('require', 'linker');
+            ga('linker:autoLink', ['cervantesvirtual.com', 'letrasmexicanas.mx', 'letrasgalegas.org', 'letrasdehonduras.com', 'catedravargasllosa.com','lluisvives.com'] ); 
+             
+             
+            
+            ga('set', 'dimension1', '#101#181#394#');             ga('set', 'dimension2', '');                         ga('set', 'dimension3','visor');                                             ga('set', 'dimension4', '225978');                                                     ga('set', 'dimension14', '');
+                
+                        
+            ga('set', 'dimension5', 'texto');             ga('set', 'dimension6', '#301#');             ga('set', 'dimension7', '#1147#');             ga('set', 'dimension8', '#HTML#');  
+            ga('set', 'dimension9', '');              ga('set', 'dimension10', '#');                             ga('set', 'dimension11', '');                         
+            ga('set', 'dimension12', '');             ga('set', 'dimension13', '');                         ga('send', 'pageview');
+        </script>
+
+
+
+    <!-- Google tag (gtag.js) -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KBPY390R3P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('set', 'linker', {'domains': ['cervantesvirtual.com', 'letrasmexicanas.mx', 'letrasgalegas.org', 'letrasdehonduras.com', 'catedravargasllosa.com','lluisvives.com']});
+        gtag('js', new Date());
+        gtag('config', 'G-KBPY390R3P');
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+
+<script>
+
+
+
+
+gtag('event','page_view', {
+'idPortal':'#101#181#394#',
+'formaObra':'',
+'formaObraSoporte':'texto',
+'idAutorObra':'#301#',
+'idMateriaObra':'#1147#',
+'formatoObra':'#HTML#',
+'formaSoporte':'',
+'idMateriaAutoridadObra':'#',
+'idAutor':'',
+'tipologiaObra':'',
+'dominio':'www.cervantesvirtual.com',
+'tipoVisita':'visor',
+'idObra':'225978',
+'idRevista':'',
+'idPortalObra':'',
+});
+
+gtag('event','first_visit', {
+'idPortal':'#101#181#394#',
+'formaObra':'',
+'formaObraSoporte':'texto',
+'idAutorObra':'#301#',
+'idMateriaObra':'#1147#',
+'formatoObra':'#HTML#',
+'formaSoporte':'',
+'idMateriaAutoridadObra':'#',
+'idAutor':'',
+'tipologiaObra':'',
+'dominio':'www.cervantesvirtual.com',
+'tipoVisita':'visor',
+'idObra':'225978',
+'idRevista':'',
+'idPortalObra':'',
+});
+
+
+gtag('event','user_engagement', {
+'idPortal':'#101#181#394#',
+'formaObra':'',
+'formaObraSoporte':'texto',
+'idAutorObra':'#301#',
+'idMateriaObra':'#1147#',
+'formatoObra':'#HTML#',
+'formaSoporte':'',
+'idMateriaAutoridadObra':'#',
+'idAutor':'',
+'tipologiaObra':'',
+'dominio':'www.cervantesvirtual.com',
+'tipoVisita':'visor',
+'idObra':'225978',
+'idRevista':'',
+'idPortalObra':'',
+});
+
+gtag('event','scroll', {
+'idPortal':'#101#181#394#',
+'formaObra':'',
+'formaObraSoporte':'texto',
+'idAutorObra':'#301#',
+'idMateriaObra':'#1147#',
+'formatoObra':'#HTML#',
+'formaSoporte':'',
+'idMateriaAutoridadObra':'#',
+'idAutor':'',
+'tipologiaObra':'',
+'dominio':'www.cervantesvirtual.com',
+'tipoVisita':'visor',
+'idObra':'225978',
+'idRevista':'',
+'idPortalObra':'',
+});
+
+
+
+    </script>
+
+
+
+
+    </body>
+</html>

@@ -1,11 +1,17 @@
 import math
 import pygame
 
+
 from robot_car import Graphics, Robot, Ultrasonic
+
+
 
 MAP_DIMENSIONS = (600, 1200)
 
+
 gfx = Graphics(MAP_DIMENSIONS,'car1.png', 'map.png')
+WINDOW = pygame.display.set_mode((1200,600))
+WINDOW.fill((0,0,0))
 
 # robot
 start = (900,200)
@@ -34,5 +40,7 @@ while running:
     point_cloud = ultra_sonic.sense_obstacles(robot.x,robot.y, robot.heading)
     robot.avoid_obstacles(point_cloud, delta_t)
     gfx.draw_sensor_data(point_cloud)
+    
+    
 
     pygame.display.update()
